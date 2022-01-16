@@ -1,0 +1,993 @@
+﻿,Name,Age,Over27,Nationality,Overall,Potential,Club,Value(M),Wage(K),Preferred Foot,Position,Height(in),Weight(lbs)
+0,L. Messi,31,0,Argentina,94,94,FC Barcelona,110.5,565,0,A,68.4,159
+1,Cristiano Ronaldo,33,0,Portugal,94,94,Juventus,77,405,1,A,74.4,183
+2,Neymar Jr,26,1,Brazil,92,93,Paris Saint-Germain,118.5,290,1,A,70.8,150
+3,De Gea,27,1,Spain,91,93,Manchester United,72,260,1,GK,76.8,168
+4,K. De Bruyne,27,1,Belgium,91,92,Manchester City,102,355,1,M,61.32,154
+5,E. Hazard,27,1,Belgium,91,91,Chelsea,93,340,1,A,69.6,163
+6,L. Modrić,32,0,Croatia,91,91,Real Madrid,67,420,1,M,69.6,146
+7,L. Suárez,31,0,Uruguay,91,91,FC Barcelona,80,455,1,A,72,190
+8,Sergio Ramos,32,0,Spain,91,91,Real Madrid,51,380,1,D,72,181
+9,J. Oblak,25,1,Slovenia,90,93,Atlético Madrid,68,94,1,GK,74.4,192
+10,R. Lewandowski,29,0,Poland,90,90,FC Bayern München,77,205,1,A,72,176
+11,T. Kroos,28,0,Germany,90,90,Real Madrid,76.5,355,1,M,72,168
+12,D. Godín,32,0,Uruguay,90,90,Atlético Madrid,44,125,1,D,74.4,172
+13,David Silva,32,0,Spain,90,90,Manchester City,60,285,0,M,69.6,148
+14,N. Kanté,27,1,France,89,90,Chelsea,63,225,1,M,67.2,159
+15,P. Dybala,24,1,Argentina,89,94,Juventus,89,205,0,A,61.2,165
+16,H. Kane,24,1,England,89,91,Tottenham Hotspur,83.5,205,1,A,74.4,196
+17,A. Griezmann,27,1,France,89,90,Atlético Madrid,78,145,0,A,70.8,161
+18,M. ter Stegen,26,1,Germany,89,92,FC Barcelona,58,240,1,GK,74.4,187
+19,T. Courtois,26,1,Belgium,89,90,Real Madrid,53.5,240,0,GK,79.2,212
+20,Sergio Busquets,29,0,Spain,89,89,FC Barcelona,51.5,315,1,M,74.4,168
+21,E. Cavani,31,0,Uruguay,89,89,Paris Saint-Germain,60,200,1,A,73.2,170
+22,M. Neuer,32,0,Germany,89,89,FC Bayern München,38,130,1,GK,76.8,203
+23,S. Agüero,30,0,Argentina,89,89,Manchester City,64.5,300,1,A,69.6,154
+24,G. Chiellini,33,0,Italy,89,89,Juventus,27,215,0,D,74.4,187
+25,K. Mbappé,19,1,France,88,95,Paris Saint-Germain,81,100,1,A,61.2,161
+26,M. Salah,26,1,Egypt,88,89,Liverpool,69.5,255,0,A,70.8,157
+27,Casemiro,26,1,Brazil,88,90,Real Madrid,59.5,285,1,M,73.2,185
+28,J. Rodríguez,26,1,Colombia,88,89,FC Bayern München,69.5,315,0,M,61.32,172
+29,L. Insigne,27,1,Italy,88,88,Napoli,62,165,1,A,64.8,130
+30,Isco,26,1,Spain,88,91,Real Madrid,73.5,315,1,A,70.8,174
+31,C. Eriksen,26,1,Denmark,88,91,Tottenham Hotspur,73.5,205,1,M,61.32,168
+32,Coutinho,26,1,Brazil,88,89,FC Barcelona,69.5,340,1,A,69.6,150
+33,P. Aubameyang,29,0,Gabon,88,88,Arsenal,59,265,1,A,74.4,176
+34,M. Hummels,29,0,Germany,88,88,FC Bayern München,46,160,1,D,75.6,203
+35,Marcelo,30,0,Brazil,88,88,Real Madrid,43,285,0,D,70.8,176
+36,G. Bale,28,0,Wales,88,88,Real Madrid,60,355,0,A,73.2,181
+37,H. Lloris,31,0,France,88,88,Tottenham Hotspur,36,150,0,GK,74.4,181
+38,G. Higuaín,30,0,Argentina,88,88,Milan,57,245,1,A,73.2,196
+39,Thiago Silva,33,0,Brazil,88,88,Paris Saint-Germain,24,165,1,D,72,181
+40,S. Handanovič,33,0,Slovenia,88,88,Inter,30,110,1,GK,76.8,203
+41,G. Buffon,40,0,Italy,88,88,Paris Saint-Germain,4,77,1,GK,76.8,203
+42,S. Umtiti,24,1,France,87,92,FC Barcelona,57,205,0,D,72,165
+43,M. Icardi,25,1,Argentina,87,90,Inter,64.5,130,1,A,61.32,165
+44,K. Koulibaly,27,1,Senegal,87,90,Napoli,51,115,1,D,74.4,196
+45,P. Pogba,25,1,France,87,91,Manchester United,64,210,1,M,76.8,185
+46,K. Navas,31,0,Costa Rica,87,87,Real Madrid,30.5,195,1,GK,73.2,176
+47,R. Lukaku,25,1,Belgium,87,89,Manchester United,62.5,230,0,A,75.6,207
+48,C. Immobile,28,0,Italy,87,87,Lazio,52,115,1,A,73.2,187
+49,Jordi Alba,29,0,Spain,87,87,FC Barcelona,38,250,0,D,68.4,150
+50,D. Mertens,31,0,Belgium,87,87,Napoli,45,135,1,A,68.4,134
+51,J. Vertonghen,31,0,Belgium,87,87,Tottenham Hotspur,34,155,0,D,74.4,190
+52,M. Hamšík,30,0,Slovakia,87,87,Napoli,46.5,125,1,M,72,174
+53,I. Rakitić,30,0,Croatia,87,87,FC Barcelona,46.5,260,1,M,72,172
+54,Piqué,31,0,Spain,87,87,FC Barcelona,34,240,1,D,76.8,187
+55,L. Sané,22,1,Germany,86,92,Manchester City,61,195,0,A,72,165
+56,Bernardo Silva,23,1,Portugal,86,91,Manchester City,59.5,180,0,A,69.6,141
+57,Ederson,24,1,Brazil,86,90,Manchester City,41.5,125,0,GK,74.4,190
+58,S. Mané,26,1,Senegal,86,87,Liverpool,52,195,1,A,70.8,152
+59,V. van Dijk,26,1,Netherlands,86,88,Liverpool,44.5,165,1,D,76.8,203
+60,R. Sterling,23,1,England,86,89,Manchester City,56.5,195,1,A,68.4,152
+61,Roberto Firmino,26,1,Brazil,86,87,Liverpool,53,195,1,A,61.32,168
+62,R. Varane,25,1,France,86,91,Real Madrid,50,210,1,D,75.6,179
+63,M. Verratti,25,1,Italy,86,89,Paris Saint-Germain,55,135,1,M,66,132
+64,Alex Sandro,27,1,Brazil,86,86,Juventus,36.5,160,0,D,61.32,176
+65,Douglas Costa,27,1,Brazil,86,86,Juventus,46.5,175,0,M,69.6,154
+66,T. Müller,28,0,Germany,86,86,FC Bayern München,45,135,1,A,73.2,165
+67,Thiago,27,1,Spain,86,86,FC Bayern München,45.5,130,1,M,70.8,154
+68,M. Reus,29,0,Germany,86,86,Borussia Dortmund,43.5,100,1,M,61.32,157
+69,Azpilicueta,28,0,Spain,86,86,Chelsea,35,175,1,D,61.2,168
+70,L. Bonucci,31,0,Italy,86,86,Juventus,30,160,1,D,75.6,187
+71,T. AldeAeireld,29,0,Belgium,86,87,Tottenham Hotspur,39,150,1,D,73.2,179
+72,M. Pjanić,28,0,Bosnia Herzegovina,86,86,Juventus,44,180,1,M,61.2,159
+73,M. Benatia,31,0,Morocco,86,86,Juventus,30,160,1,D,74.4,207
+74,M. Özil,29,0,Germany,86,86,Arsenal,43.5,190,0,M,61.32,168
+75,Fernandinho,33,0,Brazil,86,86,Manchester City,18,185,1,M,61.2,148
+76,Iniesta,34,0,Spain,86,86,Vissel Kobe,21.5,21,1,M,68.4,150
+77,M. Škriniar,23,1,Slovakia,85,92,Inter,46.5,82,1,D,74.4,176
+78,S. Milinković-Savić,23,1,Serbia,85,90,Lazio,50.5,73,1,M,75.6,168
+79,Marco Asensio,22,1,Spain,85,92,Real Madrid,54,215,0,A,72,168
+80,N. Fekir,24,1,France,85,89,Olympique Lyonnais,50,92,0,M,69.6,165
+81,Alisson,25,1,Brazil,85,90,Liverpool,36.5,115,1,GK,75.6,201
+82,J. Kimmich,23,1,Germany,85,88,FC Bayern München,40.5,92,1,M,70.8,154
+83,Saúl,23,1,Spain,85,90,Atlético Madrid,50.5,77,0,M,72,170
+84,R. Mahrez,27,1,Algeria,85,85,Manchester City,40.5,205,0,A,61.2,148
+85,D. Alaba,26,1,Austria,85,87,FC Bayern München,38,110,0,D,61.32,168
+86,Koke,26,1,Spain,85,86,Atlético Madrid,45,88,1,M,70.8,163
+87,A. Lacazette,27,1,France,85,86,Arsenal,45,180,1,A,70.8,161
+88,K. Manolas,27,1,Greece,85,87,Roma,37.5,96,1,D,74.4,183
+89,N. Otamendi,30,0,Argentina,85,85,Manchester City,28.5,170,1,D,72,179
+90,Parejo,29,0,Spain,85,85,Valencia CF,37,66,1,M,72,163
+91,Paulinho,29,0,Brazil,85,85,Guangzhou Evergrande Taobao FC,37,235,1,M,72,157
+92,W. Szczęsny,28,0,Poland,85,87,Juventus,32,125,1,GK,78,198
+93,A. Sánchez,29,0,Chile,85,85,Manchester United,37.5,215,1,A,68.4,163
+94,Y. Brahimi,28,0,Algeria,85,85,FC Porto,39,28,1,M,70.8,146
+95,J. Boateng,29,0,Germany,85,85,FC Bayern München,30,115,1,D,76.8,198
+96,A. Vidal,31,0,Chile,85,85,FC Barcelona,26,205,1,M,61.32,165
+97,I. Perišić,29,0,Croatia,85,85,Inter,37.5,110,1,M,73.2,176
+98,E. Džeko,32,0,Bosnia Herzegovina,85,85,Roma,30.5,115,1,A,76.8,185
+99,S. Khedira,31,0,Germany,85,85,Juventus,33,160,1,M,74.4,198
+100,Diego Costa,29,0,Spain,85,85,Atlético Madrid,38.5,100,1,A,74.4,190
+101,R. Nainggolan,30,0,Belgium,85,85,Inter,35.5,105,1,M,70.8,170
+102,Naldo,35,0,Brazil,85,85,FC Schalke 04,9,38,1,D,79.2,201
+103,B. Matuidi,31,0,France,85,85,Juventus,26,145,0,M,61.32,165
+104,Miranda,33,0,Brazil,85,85,Inter,15.5,96,1,D,73.2,172
+105,K. Benzema,30,0,France,85,85,Real Madrid,37,240,1,A,73.2,179
+106,Filipe Luís,32,0,Brazil,85,85,Atlético Madrid,21.5,81,0,D,72,163
+107,V. Kompany,32,0,Belgium,85,85,Manchester City,22,170,1,D,75.6,187
+108,Pepe,35,0,Portugal,85,85,Beşiktaş JK,9,57,1,D,74.4,179
+109,Z. Ibrahimović,36,0,Sweden,85,85,LA Galaxy,14,15,1,A,78,209
+110,D. Sánchez,22,1,Colombia,84,88,Tottenham Hotspur,34,105,1,D,74.4,174
+111,J. Giménez,23,1,Uruguay,84,88,Atlético Madrid,34,63,1,D,73.2,176
+112,Alex Telles,25,1,Brazil,84,87,FC Porto,32,22,0,D,61.32,157
+113,A. Laporte,24,1,France,84,88,Manchester City,34,135,0,D,74.4,187
+114,Bruno Fernandes,23,1,Portugal,84,88,Sporting CP,40.5,22,1,M,61.2,152
+115,N. Süle,22,1,Germany,84,90,FC Bayern München,36.5,84,1,D,78,214
+116,A. Martial,22,1,France,84,90,Manchester United,42.5,165,1,A,72,168
+117,D. Alli,22,1,England,84,90,Tottenham Hotspur,42.5,115,1,M,74.4,176
+118,Fabinho,24,1,Brazil,84,88,Liverpool,34,120,1,M,74.4,172
+119,Marquinhos,24,1,Brazil,84,89,Paris Saint-Germain,35.5,90,1,M,72,165
+120,William Carvalho,26,1,Portugal,84,86,Real Betis,31.5,38,1,M,74.4,183
+121,Jorginho,26,1,Italy,84,87,Chelsea,38,155,1,M,61.32,148
+122,F. Thauvin,25,1,France,84,87,Olympique de Marseille,39,72,0,M,61.2,154
+123,Carvajal,26,1,Spain,84,87,Real Madrid,31.5,185,1,D,69.6,161
+124,M. Depay,24,1,Netherlands,84,89,Olympique Lyonnais,42,93,1,A,70.8,172
+125,H. Son,25,1,Korea Republic,84,85,Tottenham Hotspur,37,125,1,M,72,143
+126,A. Lopes,27,1,Portugal,84,86,Olympique Lyonnais,25,72,0,GK,72,179
+127,S. de Vrij,26,1,Netherlands,84,86,Inter,31.5,88,1,D,74.4,172
+128,M. Perin,25,1,Italy,84,89,Juventus,29.5,105,1,GK,74.4,170
+129,J. Cuadrado,30,0,Colombia,84,84,Juventus,29.5,150,1,M,61.2,159
+130,Iago Aspas,30,0,Spain,84,84,RC Celta,30,45,0,A,70.8,148
+131,B. Leno,26,1,Germany,84,87,Arsenal,27,115,1,GK,75.6,183
+132,N. Matić,29,0,Serbia,84,84,Manchester United,24,165,0,M,76.8,187
+133,L. Hrádecký,28,0,Finland,84,84,Bayer 04 Leverkusen,22,74,1,GK,76.8,187
+134,Illarramendi,28,0,Spain,84,84,Real Sociedad,31,51,1,M,61.2,165
+135,K. Walker,28,0,England,84,84,Manchester City,24.5,165,1,D,72,154
+136,I. Gündoğan,27,1,Germany,84,84,Manchester City,32,175,1,M,61.32,176
+137,José Callejón,31,0,Spain,84,84,Napoli,27.5,105,1,M,61.2,161
+138,A. Di María,30,0,Argentina,84,84,Paris Saint-Germain,29.5,125,0,M,61.32,152
+139,M. Mandžukić,32,0,Croatia,84,84,Juventus,25,160,1,A,75.6,187
+140,Willian,29,0,Brazil,84,84,Chelsea,30.5,175,1,A,70.8,172
+141,Sergio Asenjo,29,0,Spain,84,85,Villarreal CF,24,42,1,GK,74.4,192
+142,E. Banega,30,0,Argentina,84,84,Sevilla FC,29,31,1,M,70.8,157
+143,A. Witsel,29,0,Belgium,84,84,Borussia Dortmund,24,77,1,M,74.4,179
+144,D. Payet,31,0,France,84,84,Olympique de Marseille,27.5,75,1,M,70.8,170
+145,Jonas,34,0,Brazil,84,84,SL Benfica,16.5,25,1,A,61.32,163
+146,Sokratis,30,0,Greece,84,84,Arsenal,23,140,1,D,73.2,187
+147,S. Ruffier,31,0,France,84,84,AS Saint-Étienne,19,41,1,GK,74.4,205
+148,Falcao,32,0,Colombia,84,84,AS Monaco,25,115,1,A,61.2,159
+149,K. Schmeichel,31,0,Denmark,84,84,Leicester City,19,78,1,GK,74.4,196
+150,Raúl Albiol,32,0,Spain,84,84,Napoli,18,88,1,D,75.6,181
+151,A. Gómez,30,0,Argentina,84,84,Atalanta,30,53,1,A,66,150
+152,A. Barzagli,37,0,Italy,84,84,Juventus,4.2,95,1,D,74.4,192
+153,Quaresma,34,0,Portugal,84,84,Beşiktaş JK,15.5,80,1,M,70.8,148
+154,A. Robben,34,0,Netherlands,84,84,FC Bayern München,15.5,110,0,M,61.32,176
+155,O. Dembélé,21,1,France,83,92,FC Barcelona,40,155,0,A,61.2,148
+156,Gabriel Jesus,21,1,Brazil,83,92,Manchester City,41,130,1,A,70.8,161
+157,Ronaldo Cabrais,26,1,Brazil,83,83,Grêmio,28,51,1,A,61.2,165
+158,Josué Chiamulera,26,1,Brazil,83,83,Grêmio,22.5,43,1,D,73.2,176
+159,Louri Beretta,26,1,Brazil,83,83,Atlético Mineiro,28.5,60,1,A,74.4,183
+160,P. Kimpembe,22,1,France,83,89,Paris Saint-Germain,30.5,82,0,D,74.4,176
+161,N. Keïta,23,1,Guinea,83,88,Liverpool,34,120,1,M,69.6,141
+162,C. Tolisso,23,1,France,83,88,FC Bayern München,34,85,1,M,61.32,179
+163,T. Lemar,22,1,France,83,89,Atlético Madrid,35.5,64,0,M,68.4,137
+164,K. Coman,22,1,France,83,87,FC Bayern München,34,85,1,M,61.2,157
+165,J. Tah,22,1,Germany,83,88,Bayer 04 Leverkusen,29.5,67,1,D,78,214
+166,Anderson Talisca,24,1,Brazil,83,90,Guangzhou Evergrande Taobao FC,36.5,18,0,M,75.6,176
+167,T. Werner,22,1,Germany,83,87,RB Leipzig,34.5,70,1,A,61.32,165
+168,A. Rabiot,23,1,France,83,87,Paris Saint-Germain,33,91,0,M,76.8,176
+169,L. Goretzka,23,1,Germany,83,88,FC Bayern München,34,85,1,M,74.4,174
+170,Q. Promes,26,1,Netherlands,83,84,Sevilla FC,30.5,28,1,M,70.8,159
+171,H. Ziyech,25,1,Morocco,83,86,Ajax,32.5,28,0,M,61.32,143
+172,Lucas Vázquez,27,1,Spain,83,83,Real Madrid,27,205,1,A,69.6,154
+173,Y. Carrasco,24,1,Belgium,83,86,Dalian YiFang FC,33,20,1,M,61.32,161
+174,Gerard Moreno,26,1,Spain,83,85,Villarreal CF,32,53,0,A,61.32,170
+175,Felipe,29,0,Brazil,83,83,FC Porto,20,22,1,D,75.6,190
+176,M. Kovačić,24,1,Croatia,83,89,Chelsea,35,165,1,M,70.8,172
+177,Kepa,23,1,Spain,83,91,Chelsea,28.5,84,1,GK,73.2,187
+178,Manu Trigueros,26,1,Spain,83,84,Villarreal CF,30,49,1,M,61.2,165
+179,S. Gnabry,22,1,Germany,83,88,FC Bayern München,34.5,85,1,A,70.8,165
+180,J. Pickford,24,1,England,83,88,Everton,25,78,0,GK,73.2,170
+181,S. Savić,27,1,Montenegro,83,86,Atlético Madrid,26,67,1,D,74.4,174
+182,J. Stones,24,1,England,83,87,Manchester City,28.5,125,1,D,74.4,154
+183,Suso,24,1,Spain,83,86,Milan,33,115,0,A,70.8,154
+184,J. Draxler,24,1,Germany,83,86,Paris Saint-Germain,32.5,91,1,M,74.4,170
+185,Felipe Anderson,25,1,Brazil,83,85,West Ham United,31.5,110,1,M,70.8,154
+186,Lucas Moura,25,1,Brazil,83,84,Tottenham Hotspur,31,115,1,M,70.8,154
+187,Danilo Pereira,26,1,Portugal,83,86,FC Porto,27,21,1,M,74.4,183
+188,Nacho Fernández,28,0,Spain,83,85,Real Madrid,24.5,180,1,D,61.32,168
+189,T. Horn,25,1,Germany,83,87,1. FC Köln,24,25,0,GK,76.8,198
+190,Allan,27,1,Brazil,83,83,Napoli,26.5,87,1,M,70.8,163
+191,F. Acerbi,30,0,Italy,83,83,Lazio,19,64,0,D,76.8,194
+192,Sergi Roberto,26,1,Spain,83,86,FC Barcelona,26.5,170,1,D,61.2,150
+193,Rodrigo,27,1,Spain,83,84,Valencia CF,30.5,57,0,A,72,170
+194,Pizzi,28,0,Portugal,83,83,SL Benfica,25.5,22,1,M,61.2,159
+195,K. Kampl,27,1,Slovenia,83,83,RB Leipzig,26.5,74,1,M,61.2,148
+196,Neto,28,0,Brazil,83,84,Valencia CF,21,41,1,GK,75.6,185
+197,O. Baumann,28,0,Germany,83,84,TSG 1899 Hoffenheim,21,42,1,GK,74.4,181
+198,I. Gueye,28,0,Senegal,83,83,Everton,21,125,1,M,70.8,146
+199,H. Mkhitaryan,29,0,Armenia,83,83,Arsenal,25.5,145,1,M,61.2,165
+200,Marcos Alonso,27,1,Spain,83,84,Chelsea,24,130,0,D,74.4,192
+201,D. Subašić,33,0,Croatia,83,83,AS Monaco,13,70,1,GK,75.6,185
+202,K. Glik,30,0,Poland,83,83,AS Monaco,19,86,1,D,75.6,176
+203,K. Strootman,28,0,Netherlands,83,83,Olympique de Marseille,21,66,0,M,73.2,176
+204,B. Dost,29,0,Netherlands,83,83,Sporting CP,26,26,1,A,78,196
+205,Oscar,26,1,Brazil,83,84,Shanghai SIPG FC,30.5,29,1,M,61.2,146
+206,M. Balotelli,27,1,Italy,83,83,OGC Nice,27.5,55,1,A,74.4,194
+207,Luiz Gustavo,30,0,Brazil,83,83,Olympique de Marseille,19,63,0,D,74.4,172
+208,Giuliano,28,0,Brazil,83,83,Al Nassr,26,64,1,M,69.6,150
+209,David Luiz,31,0,Brazil,83,83,Chelsea,17.5,130,1,D,74.4,190
+210,R. Fährmann,29,0,Germany,83,84,FC Schalke 04,20,38,1,GK,79.2,216
+211,Juan Mata,30,0,Spain,83,83,Manchester United,24.5,160,0,M,68.4,139
+212,Adán,31,0,Spain,83,83,Atlético Madrid,15.5,55,0,GK,75.6,203
+213,Rui Patrício,30,0,Portugal,83,83,Wolverhampton Wanderers,16.5,74,0,GK,75.6,185
+214,Y. Sommer,29,0,Switzerland,83,84,Borussia Mönchengladbach,20,35,1,GK,72,174
+215,Javi Martínez,29,0,Spain,83,83,FC Bayern München,20,94,1,M,76.8,190
+216,L. Bender,29,0,Germany,83,83,Bayer 04 Leverkusen,20,82,1,D,73.2,179
+217,Lucas Leiva,31,0,Brazil,83,83,Lazio,17.5,64,1,M,61.2,172
+218,S. Mandanda,33,0,France,83,83,Olympique de Marseille,13,51,1,GK,73.2,181
+219,Cesc Fàbregas,31,0,Spain,83,83,Chelsea,22,140,1,M,61.2,170
+220,M. Dembélé,30,0,Belgium,83,83,Tottenham Hotspur,24,120,0,M,73.2,181
+221,F. Ribéry,35,0,France,83,83,FC Bayern München,11.5,72,1,M,68.4,159
+222,R. Jarstein,33,0,NoAay,83,83,Hertha BSC,13,33,1,GK,75.6,181
+223,D. De Rossi,34,0,Italy,83,83,Roma,8,80,1,M,72,183
+224,Pepe Reina,35,0,Spain,83,83,Milan,6,56,1,GK,74.4,203
+225,J. Pavlenka,26,1,Czech Republic,82,85,SV Werder Bremen,19.5,30,1,GK,78,179
+226,M. de Ligt,18,1,Netherlands,82,91,Ajax,27,11,1,D,74.4,196
+227,Rodri,22,1,Spain,82,87,Atlético Madrid,29,59,1,M,75.6,181
+228,Arthur,21,1,Brazil,82,90,FC Barcelona,32.5,125,1,M,68.4,161
+229,G. Donnarumma,19,1,Italy,82,93,Milan,29,23,1,GK,78,198
+230,Rosberto Dourado,30,0,Brazil,82,82,Atlético Mineiro,16.5,46,1,M,70.8,154
+231,Juiano Mestres,34,0,Brazil,82,82,Cruzeiro,6.5,39,1,D,61.32,181
+232,Raphaelito Anjos,30,0,Brazil,82,82,Grêmio,14,32,1,GK,75.6,187
+233,Gelson Martins,23,1,Portugal,82,87,Atlético Madrid,29.5,59,1,M,69.6,159
+234,Gonçalo Guedes,21,1,Portugal,82,86,Valencia CF,29,36,1,M,61.2,150
+235,L. Torreira,22,1,Uruguay,82,87,Arsenal,25,98,1,M,67.2,141
+236,Malcom,21,1,Brazil,82,89,FC Barcelona,31.5,140,0,A,69.6,163
+237,Pau López,23,1,Spain,82,87,Real Betis,21.5,21,0,GK,74.4,170
+238,L. Hernández,22,1,France,82,88,Atlético Madrid,25.5,53,0,D,72,168
+239,C. Lenglet,23,1,France,82,88,FC Barcelona,26,135,0,D,73.2,179
+240,A. Kramarić,27,1,Croatia,82,83,TSG 1899 Hoffenheim,26,54,1,M,61.2,161
+241,A. Robertson,24,1,Scotland,82,87,Liverpool,24.5,98,0,D,61.2,141
+242,Dani García,28,0,Spain,82,83,Athletic Club de Bilbao,20,33,1,M,61.32,176
+243,F. Bernardeschi,24,1,Italy,82,87,Juventus,29.5,110,0,M,73.2,170
+244,J. Brandt,22,1,Germany,82,88,Bayer 04 Leverkusen,30.5,68,1,M,73.2,185
+245,D. Rugani,23,1,Italy,82,86,Juventus,24.5,95,1,D,75.6,185
+246,Samu Castillejo,23,1,Spain,82,86,Milan,29,94,0,M,72,148
+247,João Cancelo,24,1,Portugal,82,88,Juventus,25.5,95,1,D,72,163
+248,A. Romagnoli,23,1,Italy,82,89,Milan,26.5,84,0,D,74.4,172
+249,T. Partey,25,1,Ghana,82,88,Atlético Madrid,25.5,59,1,M,73.2,170
+250,Fred,25,1,Brazil,82,84,Manchester United,26.5,140,0,M,68.4,141
+251,J. Vardy,31,0,England,82,82,Leicester City,20,96,1,A,61.2,163
+252,A. Belotti,24,1,Italy,82,87,Torino,30,58,1,A,61.32,159
+253,E. Forsberg,26,1,Sweden,82,83,RB Leipzig,26,67,1,M,61.2,163
+254,J. Lingard,25,1,England,82,83,Manchester United,26.5,140,1,M,70.8,137
+255,F. Vázquez,29,0,Argentina,82,82,Sevilla FC,21.5,27,0,M,73.2,181
+256,E. Višća,28,0,Bosnia Herzegovina,82,82,Medipol Başakşehir FK,22.5,40,1,M,69.6,139
+257,A. Rüdiger,25,1,Germany,82,84,Chelsea,22.5,110,1,D,75.6,187
+258,A. Florenzi,27,1,Italy,82,83,Roma,20.5,73,1,D,69.6,148
+259,H. Maguire,25,1,England,82,85,Leicester City,23.5,77,1,D,76.8,220
+260,T. Meunier,26,1,Belgium,82,83,Paris Saint-Germain,21,87,1,M,75.6,198
+261,S. Sané,27,1,Senegal,82,82,FC Schalke 04,18.5,41,1,D,78,187
+262,G. Kondogbia,25,1,Central African Rep.,82,85,Valencia CF,27.5,46,0,M,74.4,176
+263,Rafinha,25,1,Brazil,82,87,FC Barcelona,29.5,165,0,M,70.8,157
+264,Gabriel Paulista,27,1,Brazil,82,83,Valencia CF,21,44,1,D,74.4,174
+265,Morata,25,1,Spain,82,85,Chelsea,28.5,135,1,A,74.4,187
+266,J. Cillessen,29,0,Netherlands,82,84,FC Barcelona,18,135,1,GK,73.2,183
+267,W. Ben Yedder,27,1,France,82,82,Sevilla FC,23.5,28,1,A,68.4,150
+268,C. Bakambu,27,1,DR Congo,82,83,Beijing Sinobo Guoan FC,26,33,1,A,72,161
+269,Pablo Sarabia,26,1,Spain,82,83,Sevilla FC,26,26,0,M,70.8,154
+270,W. Zaha,25,1,Ivory Coast,82,85,Crystal Palace,28.5,78,1,A,61.32,146
+271,Luis Alberto,25,1,Spain,82,85,Lazio,28.5,67,1,CF,72,163
+272,Jonathan Viera,28,0,Spain,82,82,Beijing Sinobo Guoan FC,22.5,31,1,A,68.4,141
+273,Bartra,27,1,Spain,82,83,Real Betis,21,32,1,D,72,161
+274,S. Coates,27,1,Uruguay,82,83,Sporting CP,21,19,1,D,78,203
+275,Willian José,26,1,Brazil,82,83,Real Sociedad,26.5,44,1,A,74.4,205
+276,Mário Fernandes,27,1,Russia,82,82,PFC CSKA Moscow,18.5,1,1,D,74.4,176
+277,Víctor Ruiz,29,0,Spain,82,83,Villarreal CF,19.5,43,0,D,73.2,172
+278,T. Delaney,26,1,Denmark,82,83,Borussia Dortmund,21.5,61,0,M,72,174
+279,K. Casteels,26,1,Belgium,82,85,VfL WoAsburg,19.5,46,0,GK,79.2,190
+280,M. Götze,26,1,Germany,82,85,Borussia Dortmund,27,67,1,M,70.8,165
+281,S. Mustafi,26,1,Germany,82,84,Arsenal,22.5,115,1,D,72,181
+282,J. Pastore,29,0,Argentina,82,82,Roma,21.5,84,1,M,74.4,172
+283,Pedro,30,0,Spain,82,82,Chelsea,21,140,1,A,68.4,143
+284,G. Bonaventura,28,0,Italy,82,82,Milan,22,115,1,M,61.32,165
+285,R. Bürki,27,1,Switzerland,82,85,Borussia Dortmund,18.5,50,1,GK,74.4,187
+286,Taison,30,0,Brazil,82,82,Shakhtar Donetsk,21,1,1,M,69.6,141
+287,S. Nzonzi,29,0,France,82,82,Roma,17,77,1,M,78,165
+288,Marlos,30,0,Ukraine,82,82,Shakhtar Donetsk,21,1,0,M,70.8,152
+289,A. Ramsey,27,1,Wales,82,83,Arsenal,25,130,1,M,72,168
+290,K. Trippier,27,1,England,82,82,Tottenham Hotspur,18.5,99,1,D,61.2,159
+291,A. Kolarov,32,0,Serbia,82,82,Roma,12.5,73,0,D,74.4,183
+292,G. Sigurðsson,28,0,Iceland,82,82,Everton,22.5,125,1,M,73.2,181
+293,S. Giovinco,31,0,Italy,82,82,Toronto FC,20,15,1,CF,64.8,134
+294,M. Arnautović,29,0,Austria,82,82,West Ham United,22,120,1,A,76.8,183
+295,N. Gaitán,30,0,Argentina,82,82,Dalian YiFang FC,21,22,0,M,69.6,146
+296,J. Henderson,28,0,England,82,82,Liverpool,18,125,1,M,72,176
+297,M. Kruse,30,0,Germany,82,82,SV Werder Bremen,21.5,45,0,A,61.32,168
+298,M. Parolo,33,0,Italy,82,82,Lazio,9,59,1,M,72,165
+299,L. Fejsa,29,0,Serbia,82,82,SL Benfica,17,18,1,M,72,176
+300,A. Rami,32,0,France,82,82,Olympique de Marseille,12.5,57,1,D,75.6,198
+301,V. Ćorluka,32,0,Croatia,82,82,Lokomotiv Moscow,12.5,1,1,D,76.8,185
+302,G. Wijnaldum,27,1,Netherlands,82,82,Liverpool,23,130,1,M,70.8,152
+303,F. Fazio,31,0,Argentina,82,82,Roma,15,73,1,D,78,187
+304,O. Giroud,31,0,France,82,82,Chelsea,20,140,0,A,76.8,203
+305,Marcano,31,0,Spain,82,82,Roma,15,73,0,D,74.4,170
+306,A. Guardado,31,0,Mexico,82,82,Real Betis,19,35,0,M,68.4,148
+307,E. Garay,31,0,Argentina,82,82,Valencia CF,15,44,1,D,74.4,198
+308,Jardel,32,0,Brazil,82,82,SL Benfica,12.5,17,1,D,76.8,192
+309,S. Sirigu,31,0,Italy,82,82,Torino,13.5,45,1,GK,76.8,176
+310,E. Viviano,32,0,Italy,82,82,Sporting CP,12.5,15,0,GK,78,198
+311,L. Koscielny,32,0,France,82,82,Arsenal,12.5,115,1,D,73.2,165
+312,A. Consigli,31,0,Italy,82,82,Sassuolo,13.5,52,1,GK,74.4,181
+313,L. Biglia,32,0,Argentina,82,82,Milan,12.5,98,1,M,61.2,139
+314,Dani Alves,35,0,Brazil,82,82,Paris Saint-Germain,4.8,62,1,D,69.6,150
+315,David Villa,36,0,Spain,82,82,New York City FC,8,12,1,A,70.8,152
+316,Aduriz,37,0,Spain,82,82,Athletic Club de Bilbao,8,29,1,A,72,172
+317,P. Čech,36,0,Czech Republic,82,82,Arsenal,3,60,0,GK,78,198
+318,Casillas,37,0,Spain,82,82,FC Porto,1.5,10,0,GK,73.2,185
+319,M. Rashford,20,1,England,81,89,Manchester United,27,110,1,A,73.2,154
+320,Laure Santeiro,30,0,Brazil,81,81,Fluminense,17,40,0,M,68.4,139
+321,L. Bailey,20,1,Jamaica,81,89,Bayer 04 Leverkusen,26.5,54,0,M,61.2,174
+322,M. Akanji,22,1,Switzerland,81,87,Borussia Dortmund,21,49,1,D,74.4,187
+323,F. de Jong,21,1,Netherlands,81,89,Ajax,26,19,1,M,61.32,154
+324,Nélson Semedo,24,1,Portugal,81,86,FC Barcelona,20,125,1,D,61.2,148
+325,Pablo Fornals,22,1,Spain,81,86,Villarreal CF,24,36,1,M,61.2,148
+326,Fabián,22,1,Spain,81,89,Napoli,26,64,0,M,74.4,154
+327,E. Bailly,24,1,Ivory Coast,81,87,Manchester United,21,105,1,D,73.2,170
+328,Dani Ceballos,21,1,Spain,81,88,Real Madrid,25,120,1,M,61.2,154
+329,H. Lozano,22,1,Mexico,81,86,PSV,24,22,1,A,70.8,154
+330,Morales,30,0,Spain,81,81,Levante UD,17,33,1,A,61.32,154
+331,J. Seri,26,1,Ivory Coast,81,82,Fulham,20.5,73,1,M,68.4,161
+332,M. Politano,24,1,Italy,81,84,Inter,22.5,57,0,M,68.4,148
+333,M. Brozović,25,1,Croatia,81,84,Inter,18.5,64,1,M,61.32,150
+334,Williams,24,1,Spain,81,87,Athletic Club de Bilbao,24.5,31,1,A,73.2,174
+335,A. Correa,23,1,Argentina,81,87,Atlético Madrid,24.5,54,1,M,68.4,150
+336,A. Christensen,22,1,Denmark,81,88,Chelsea,21.5,91,1,D,74.4,179
+337,João Mário,25,1,Portugal,81,84,Inter,22.5,71,1,M,61.2,161
+338,T. Strakosha,23,1,Albania,81,86,Lazio,17,36,1,GK,76.8,172
+339,E. Hysaj,24,1,Albania,81,86,Napoli,20,58,1,D,72,154
+340,P. Zieliński,24,1,Poland,81,88,Napoli,24.5,64,1,M,61.32,165
+341,Ricardo Pereira,24,1,Portugal,81,85,Leicester City,19,64,1,D,70.8,154
+342,Grimaldo,22,1,Spain,81,87,SL Benfica,20.5,14,0,D,68.4,152
+343,R. Guerreiro,24,1,Portugal,81,86,Borussia Dortmund,24,54,0,M,68.4,157
+344,A. Doucouré,25,1,France,81,85,Watford,19.5,60,1,M,72,168
+345,J. Martínez,25,1,Venezuela,81,84,Atlanta United,22.5,14,1,A,68.4,152
+346,C. Bacca,31,0,Colombia,81,81,Villarreal CF,16,45,1,A,61.32,170
+347,A. Plea,25,1,France,81,83,Borussia Mönchengladbach,22,40,1,A,61.32,174
+348,B. Davies,25,1,Wales,81,84,Tottenham Hotspur,18.5,87,0,D,72,168
+349,M. Nastasić,25,1,Serbia,81,84,FC Schalke 04,18.5,36,0,D,74.4,183
+350,A. Milik,24,1,Poland,81,88,Napoli,25.5,71,0,CF,73.2,172
+351,M. Sabitzer,24,1,Austria,81,84,RB Leipzig,22.5,54,1,M,61.2,170
+352,B. Mendy,23,1,France,81,86,Manchester City,20,105,0,D,73.2,187
+353,C. Kramer,27,1,Germany,81,82,Borussia Mönchengladbach,17,35,1,M,75.6,168
+354,S. Vrsaljko,26,1,Croatia,81,84,Inter,18,57,1,D,61.32,168
+355,T. Hazard,25,1,Belgium,81,83,Borussia Mönchengladbach,21.5,40,1,A,70.8,152
+356,K. Bellarabi,28,0,Germany,81,81,Bayer 04 Leverkusen,18,76,1,M,72,179
+357,S. Zaza,27,1,Italy,81,82,Torino,21,48,0,A,73.2,185
+358,F. Ghoulam,27,1,Algeria,81,82,Napoli,16.5,68,0,D,72,176
+359,B. Lecomte,27,1,France,81,84,Montpellier HSC,15,27,0,GK,73.2,172
+360,J. Iličić,30,0,Slovenia,81,81,Atalanta,17,41,0,M,75.6,174
+361,K. Volland,25,1,Germany,81,83,Bayer 04 Leverkusen,22,76,0,A,61.2,187
+362,Paco Alcácer,24,1,Spain,81,85,Borussia Dortmund,23.5,59,1,A,70.8,159
+363,Vitolo,28,0,Spain,81,81,Atlético Madrid,18,65,1,M,73.2,174
+364,G. Xhaka,25,1,Switzerland,81,84,Arsenal,22,115,0,M,73.2,181
+365,D. Tadić,29,0,Serbia,81,81,Ajax,17.5,26,0,M,61.32,168
+366,C. Aránguiz,29,0,Chile,81,81,Bayer 04 Leverkusen,17,76,1,M,68.4,154
+367,S. Verdi,25,1,Italy,81,81,Napoli,19.5,77,0,A,68.4,134
+368,D. Lovren,28,0,Croatia,81,82,Liverpool,16,115,1,D,74.4,185
+369,G. Medel,30,0,Chile,81,81,Beşiktaş JK,13,56,1,D,68.4,143
+370,X. Shaqiri,26,1,Switzerland,81,81,Liverpool,19,130,0,M,68.4,159
+371,J. Corona,25,1,Mexico,81,83,FC Porto,21.5,18,1,M,69.6,137
+372,A. Areola,25,1,France,81,85,Paris Saint-Germain,16.5,61,1,GK,78,207
+373,K. Vogt,26,1,Germany,81,82,TSG 1899 Hoffenheim,17.5,42,1,D,76.8,187
+374,Ander Herrera,28,0,Spain,81,81,Manchester United,17.5,140,1,M,72,154
+375,E. Salvio,27,1,Argentina,81,81,SL Benfica,18.5,19,1,A,69.6,170
+376,S. El Shaarawy,25,1,Italy,81,82,Roma,21,77,1,M,61.2,159
+377,C. Smalling,28,0,England,81,82,Manchester United,16,130,1,D,76.8,179
+378,Hulk,31,0,Brazil,81,81,Shanghai SIPG FC,15.5,25,0,M,61.32,187
+379,S. Kagawa,29,0,Japan,81,81,Borussia Dortmund,17.5,65,1,M,70.8,150
+380,M. Lanzini,25,1,Argentina,81,85,West Ham United,23,90,1,M,67.2,130
+381,F. Smolov,28,0,Russia,81,81,Lokomotiv Moscow,18.5,1,1,A,74.4,176
+382,L. Stindl,29,0,Germany,81,81,Borussia Mönchengladbach,18,43,1,CF,61.32,176
+383,O. Toprak,28,0,Turkey,81,82,Borussia Dortmund,16,59,1,D,73.2,183
+384,D. Perotti,29,0,Argentina,81,81,Roma,17.5,84,1,A,61.2,154
+385,F. Muslera,32,0,Uruguay,81,81,Galatasaray SK,10,52,1,GK,75.6,163
+386,B. Höwedes,30,0,Germany,81,81,Lokomotiv Moscow,13,1,1,D,74.4,170
+387,S. Kjær,29,0,Denmark,81,81,Sevilla FC,14,23,1,D,74.4,185
+388,S. Bender,29,0,Germany,81,81,Bayer 04 Leverkusen,14,69,1,D,73.2,176
+389,M. Valbuena,33,0,France,81,81,Fenerbahçe SK,11,86,1,M,67.2,139
+390,Pedro León,31,0,Spain,81,81,SD Eibar,15.5,32,1,M,72,161
+391,K. Boateng,31,0,Ghana,81,81,Sassuolo,15,65,1,M,73.2,190
+392,L. Piszczek,33,0,Poland,81,81,Borussia Dortmund,7,57,1,D,72,174
+393,A. Candreva,31,0,Italy,81,81,Inter,15.5,74,1,M,61.32,154
+394,D. Wass,29,0,Denmark,81,81,Valencia CF,17,46,1,D,61.32,163
+395,E. Lamela,26,1,Argentina,81,82,Tottenham Hotspur,21,105,0,M,72,176
+396,D. Rose,27,1,England,81,81,Tottenham Hotspur,14.5,92,0,D,70.8,168
+397,C. Vela,29,0,Mexico,81,81,Los Angeles FC,17.5,15,0,A,61.2,170
+398,Renato Augusto,30,0,Brazil,81,81,Beijing Sinobo Guoan FC,16.5,28,1,M,73.2,190
+399,A. Valencia,32,0,Ecuador,81,81,Manchester United,10,120,1,M,61.32,183
+400,L. Fabiański,33,0,Poland,81,81,West Ham United,9,70,1,GK,75.6,183
+401,João Moutinho,31,0,Portugal,81,81,Wolverhampton Wanderers,15,85,1,M,68.4,134
+402,Borja Valero,33,0,Spain,81,81,Inter,11,74,1,M,70.8,161
+403,F. Quagliarella,35,0,Italy,81,81,Sampdoria,8,39,1,A,61.32,174
+404,B. Gomis,32,0,France,81,81,Al Hilal,14,56,1,A,72,170
+405,Manuel Fernandes,32,0,Portugal,81,81,Lokomotiv Moscow,14,1,1,M,70.8,165
+406,H. Herrera,28,0,Mexico,81,81,FC Porto,17.5,20,1,M,72,159
+407,Raffael,33,0,Brazil,81,81,Borussia Mönchengladbach,11,41,1,CF,70.8,152
+408,Nani,31,0,Portugal,81,81,Sporting CP,15.5,19,1,M,61.2,150
+409,J. Milner,32,0,England,81,81,Liverpool,13.5,120,1,M,70.8,154
+410,J. Mathieu,34,0,France,81,81,Sporting CP,5.5,18,0,D,74.4,185
+411,Joaquín,36,0,Spain,81,81,Real Betis,6,24,1,A,61.2,165
+412,M. Gómez,21,1,Uruguay,80,85,RC Celta,20.5,25,1,A,73.2,185
+413,K. Havertz,19,1,Germany,80,89,Bayer 04 Leverkusen,22,32,0,M,74.4,183
+414,T. Ndombele,21,1,France,80,89,Olympique Lyonnais,22.5,51,1,M,61.32,168
+415,H. Aouar,20,1,France,80,90,Olympique Lyonnais,23.5,51,1,M,70.8,154
+416,Carlos Soler,21,1,Spain,80,87,Valencia CF,21,31,1,M,61.32,168
+417,Odriozola,22,1,Spain,80,88,Real Madrid,18.5,115,1,D,70.8,146
+418,M. Almirón,24,1,Paraguay,80,84,Atlanta United,19.5,11,0,M,70.8,139
+419,Welington Dano,30,0,Brazil,80,80,Cruzeiro,10.5,34,0,D,61.2,152
+420,Everton Andrão,34,0,Brazil,80,80,Fluminense,4.5,34,1,M,61.2,165
+421,Oyarzabal,21,1,Spain,80,87,Real Sociedad,21,29,0,M,61.32,172
+422,F. Balbuena,26,1,Paraguay,80,83,West Ham United,15.5,80,1,D,74.4,187
+423,M. Marega,27,1,Mali,80,80,FC Porto,16,19,1,A,73.2,183
+424,B. Pavard,22,1,France,80,86,VfB Stuttgart,17.5,33,1,D,73.2,168
+425,W. Ndidi,21,1,Nigeria,80,85,Leicester City,17,50,1,M,72,163
+426,A. Onana,22,1,Cameroon,80,85,Ajax,14.5,14,1,GK,74.4,205
+427,G. Lo Celso,22,1,Argentina,80,86,Real Betis,20,72,0,M,70.8,154
+428,M. Acuña,26,1,Argentina,80,80,Sporting CP,12.5,16,0,D,69.6,152
+429,Rúben Neves,21,1,Portugal,80,87,Wolverhampton Wanderers,20.5,59,1,M,61.32,176
+430,Mariano,24,1,Dominican Republic,80,85,Real Madrid,20,140,1,A,61.32,168
+431,Raúl,28,0,Brazil,80,80,SC Braga,12,19,0,D,74.4,179
+432,M. Caldara,24,1,Italy,80,86,Milan,17.5,73,1,D,74.4,176
+433,M. Vecino,26,1,Uruguay,80,81,Inter,14.5,63,1,M,74.4,179
+434,T. Bakayoko,23,1,France,80,85,Milan,17,85,1,M,74.4,187
+435,M. Dahoud,22,1,Germany,80,86,Borussia Dortmund,20,50,1,M,61.2,150
+436,Rafa,25,1,Portugal,80,83,SL Benfica,18.5,17,1,A,69.6,146
+437,K. Baldé,23,1,Senegal,80,85,Inter,20,65,1,M,61.32,176
+438,G. Rulli,26,1,Argentina,80,85,Real Sociedad,14,26,1,GK,74.4,185
+439,F. Armani,31,0,Argentina,80,80,River Plate,9,22,1,GK,74.4,194
+440,Rony Lopes,22,1,Portugal,80,85,AS Monaco,20,65,0,M,70.8,150
+441,Santi Mina,22,1,Spain,80,85,Valencia CF,20,40,1,A,61.32,170
+442,K. Demirbay,24,1,Germany,80,84,TSG 1899 Hoffenheim,19.5,37,0,M,72,159
+443,Gayà,23,1,Spain,80,85,Valencia CF,16.5,33,0,D,69.6,146
+444,André Gomes,24,1,Portugal,80,85,Everton,19.5,130,1,M,74.4,185
+445,N. Tagliafico,25,1,Argentina,80,82,Ajax,15,20,0,D,68.4,143
+446,M. Sanson,23,1,France,80,85,Olympique de Marseille,19.5,47,1,M,61.32,161
+447,Pacheco,26,1,Spain,80,83,Deportivo Alavés,13,23,0,GK,73.2,179
+448,E. Can,24,1,Germany,80,85,Juventus,19.5,91,1,M,72,181
+449,H. Çalhanoğlu,24,1,Turkey,80,84,Milan,19.5,89,1,M,61.2,168
+450,M. Ginter,24,1,Germany,80,82,Borussia Mönchengladbach,15.5,28,1,D,74.4,183
+451,M. Keane,25,1,England,80,83,Everton,15.5,88,1,D,75.6,181
+452,T. Stepanenko,28,0,Ukraine,80,80,Shakhtar Donetsk,12,1,0,M,61.32,168
+453,L. Shaw,22,1,England,80,85,Manchester United,16.5,96,0,D,61.32,165
+454,Z. Feddal,28,0,Morocco,80,80,Real Betis,12,29,0,D,75.6,183
+455,S. Haller,24,1,France,80,83,Eintracht Frankfurt,19,41,1,A,75.6,201
+456,Bernard,25,1,Brazil,80,81,Everton,17.5,97,1,M,66,132
+457,T. Inui,30,0,Japan,80,80,Real Betis,14,30,1,M,68.4,139
+458,Portu,26,1,Spain,80,81,Girona FC,17.5,37,1,M,61.2,154
+459,M. Batshuayi,24,1,Belgium,80,84,Valencia CF,19.5,105,1,A,73.2,172
+460,E. Zahavi,30,0,Israel,80,80,Guangzhou R&F; FC,14.5,24,1,A,72,157
+461,T. Vaclík,29,0,Czech Republic,80,81,Sevilla FC,11.5,17,1,GK,74.4,187
+462,N. Pope,26,1,England,80,83,Burnley,13,48,1,GK,80.4,168
+463,Héctor Bellerín,23,1,Spain,80,85,Arsenal,16.5,85,1,D,61.2,163
+464,P. Kadeřábek,26,1,Czech Republic,80,81,TSG 1899 Hoffenheim,14,39,1,D,72,179
+465,J. Butland,25,1,England,80,85,Stoke City,14,39,1,GK,78,209
+466,J. Vestergaard,25,1,Denmark,80,81,Southampton,14.5,51,1,D,79.2,216
+467,J. Tarkowski,25,1,England,80,83,Burnley,15.5,56,1,D,76.8,179
+468,Deulofeu,24,1,Spain,80,82,Watford,18.5,56,1,A,61.2,161
+469,E. Dier,24,1,England,80,84,Tottenham Hotspur,16.5,73,1,M,74.4,198
+470,J. Murillo,26,1,Colombia,80,84,Valencia CF,16,38,1,D,72,172
+471,M. Badelj,29,0,Croatia,80,80,Lazio,11.5,53,1,M,73.2,176
+472,Ismaily,28,0,Brazil,80,80,Shakhtar Donetsk,11.5,1,0,D,61.2,181
+473,N. Schulz,25,1,Germany,80,81,TSG 1899 Hoffenheim,14.5,37,0,D,61.32,172
+474,L. Digne,24,1,France,80,84,Everton,16,79,0,D,61.2,163
+475,M. Uth,26,1,Germany,80,81,FC Schalke 04,17.5,42,0,A,73.2,159
+476,Cristian Tello,26,1,Spain,80,80,Real Betis,16,30,1,M,61.2,143
+477,D. Vida,29,0,Croatia,80,80,Beşiktaş JK,11.5,55,1,D,72,168
+478,L. Muriel,27,1,Colombia,80,81,Sevilla FC,17.5,24,1,A,61.2,174
+479,V. Aboubakar,26,1,Cameroon,80,82,FC Porto,18,19,1,A,72,181
+480,A. Oxlade-Chamberlain,24,1,England,80,85,Liverpool,19.5,94,1,M,70.8,154
+481,S. Aurier,25,1,Ivory Coast,80,83,Tottenham Hotspur,15.5,82,1,D,70.8,168
+482,J. Matip,26,1,Cameroon,80,82,Liverpool,15,99,1,D,76.8,198
+483,Y. Rakitskyi,28,0,Ukraine,80,80,Shakhtar Donetsk,12,1,0,D,73.2,183
+484,Sergi Enrich,28,0,Spain,80,80,SD Eibar,15.5,34,1,A,61.32,170
+485,A. Yarmolenko,28,0,Ukraine,80,80,West Ham United,15,92,0,M,75.6,183
+486,Hugo Mallo,27,1,Spain,80,81,RC Celta,13.5,27,1,D,70.8,159
+487,André Almeida,27,1,Portugal,80,80,SL Benfica,12,15,1,D,73.2,176
+488,D. Didavi,28,0,Germany,80,80,VfB Stuttgart,15,44,0,M,61.32,170
+489,R. Rodríguez,25,1,Switzerland,80,83,Milan,15.5,81,0,D,61.32,170
+490,R. Pereyra,27,1,Argentina,80,80,Watford,15.5,65,1,M,72,170
+491,Mario Gaspar,27,1,Spain,80,80,Villarreal CF,12,35,1,D,72,163
+492,Maicon,29,0,Brazil,80,80,Galatasaray SK,11.5,63,1,D,75.6,196
+493,D. Blind,28,0,Netherlands,80,80,Ajax,12,22,0,D,61.32,159
+494,J. Zoet,27,1,Netherlands,80,83,PSV,12.5,16,1,GK,74.4,194
+495,A. Ljajić,26,1,Serbia,80,81,Beşiktaş JK,17.5,52,1,M,72,163
+496,Canales,27,1,Spain,80,80,Real Betis,15.5,30,0,M,61.32,163
+497,Iago Falqué,28,0,Spain,80,80,Torino,15,59,0,A,70.8,152
+498,L. de Jong,27,1,Netherlands,80,80,PSV,16,23,1,A,74.4,190
+499,Guaita,31,0,Spain,80,80,Crystal Palace,9,48,1,GK,75.6,176
+500,Muniain,25,1,Spain,80,83,Athletic Club de Bilbao,18.5,31,1,M,68.4,139
+501,Susaeta,30,0,Spain,80,80,Athletic Club de Bilbao,14,33,1,A,61.2,150
+502,S. Rudy,28,0,Germany,80,80,FC Schalke 04,12,37,1,M,61.2,163
+503,K. Trapp,27,1,Germany,80,81,Eintracht Frankfurt,11.5,61,1,GK,74.4,190
+504,V. Wanyama,27,1,Kenya,80,82,Tottenham Hotspur,14.5,86,1,M,72,192
+505,N. Nkoulou,28,0,Cameroon,80,80,Torino,12,50,1,D,72,170
+506,R. Boudebouz,28,0,Algeria,80,80,Real Betis,15,31,0,M,61.2,163
+507,Camacho,28,0,Spain,80,81,VfL WoAsburg,13.5,51,1,M,72,165
+508,S. Ulreich,29,0,Germany,80,80,FC Bayern München,10,61,1,GK,76.8,185
+509,M. Musacchio,27,1,Argentina,80,80,Milan,12.5,85,1,D,61.32,161
+510,C. Stuani,31,0,Uruguay,80,80,Girona FC,13.5,41,1,A,73.2,159
+511,P. Gulácsi,28,0,Hungary,80,80,RB Leipzig,10.5,45,1,GK,76.8,190
+512,Bruno,34,0,Spain,80,80,Villarreal CF,7,39,0,M,72,161
+513,F. Delph,28,0,England,80,80,Manchester City,11.5,120,0,D,70.8,172
+514,A. Lallana,30,0,England,80,80,Liverpool,13.5,110,1,M,61.2,161
+515,Marcelo,31,0,Brazil,80,80,Olympique Lyonnais,10,64,1,D,75.6,187
+516,S. Coleman,29,0,Republic of Ireland,80,80,Everton,11,97,1,D,61.2,148
+517,Alexandre Pato,28,0,Brazil,80,80,Tianjin Quanjian FC,15.5,35,1,A,61.32,179
+518,Antunes,31,0,Portugal,80,80,Getafe CF,9.5,27,0,D,70.8,152
+519,Nacho Monreal,32,0,Spain,80,80,Arsenal,8,99,0,D,61.2,159
+520,Beñat,31,0,Spain,80,80,Athletic Club de Bilbao,12.5,30,1,M,61.2,168
+521,A. Fernández,32,0,Argentina,80,80,Beijing Renhe FC,11,20,1,M,61.2,161
+522,K. Gameiro,31,0,France,80,80,Valencia CF,13.5,45,1,A,69.6,154
+523,I. Piatti,33,0,Argentina,80,80,Montreal Impact,9,13,1,A,61.32,168
+524,V. Birsa,31,0,Slovenia,80,80,Chievo Verona,13,23,0,M,72,179
+525,S. Romero,31,0,Argentina,80,80,Manchester United,9,91,1,GK,76.8,192
+526,D. Criscito,31,0,Italy,80,80,Genoa,10,21,0,D,72,165
+527,D. Valeri,32,0,Argentina,80,80,Portland Timbers,11.5,12,1,A,61.2,165
+528,D. Sturridge,28,0,England,80,80,Liverpool,15.5,125,0,A,61.32,168
+529,Raúl García,31,0,Spain,80,80,Athletic Club de Bilbao,13,30,1,M,72,185
+530,S. Defour,30,0,Belgium,80,80,Burnley,13.5,65,1,M,70.8,159
+531,M. Škrtel,33,0,Slovakia,80,80,Fenerbahçe SK,6,68,1,D,75.6,179
+532,S. Radu,31,0,Romania,80,80,Lazio,10,51,0,D,72,174
+533,G. Cahill,32,0,England,80,80,Chelsea,8.5,99,1,D,76.8,194
+534,L. Diarra,33,0,France,80,80,Paris Saint-Germain,6,75,1,M,70.8,163
+535,L. Perrin,32,0,France,80,80,AS Saint-Étienne,8.5,37,1,D,61.32,176
+536,Dante,34,0,Brazil,80,80,OGC Nice,4.5,37,0,D,74.4,187
+537,A. Gignac,32,0,France,80,80,Tigres U.A.N.L.,12,70,1,A,74.4,201
+538,M. Gómez,32,0,Germany,80,80,VfB Stuttgart,12,46,1,A,74.4,196
+539,I. Akinfeev,32,0,Russia,80,80,PFC CSKA Moscow,8.5,1,1,GK,73.2,172
+540,I. Denisov,34,0,Russia,80,80,Lokomotiv Moscow,4.5,1,1,M,70.8,154
+541,Juanfran,33,0,Spain,80,80,Atlético Madrid,5.5,53,1,D,61.32,157
+542,Diego López,36,0,Spain,80,80,RCD Espanyol,2,17,1,GK,78,196
+543,Santi Cazorla,33,0,Spain,80,80,Villarreal CF,8.5,39,1,M,67.2,146
+544,Jesús Navas,32,0,Spain,80,80,Sevilla FC,11.5,22,1,M,68.4,132
+545,J. Mascherano,34,0,Argentina,80,80,Hebei China Fortune FC,4.5,20,1,M,70.8,161
+546,A. Mirante,34,0,Italy,80,80,Roma,6,51,1,GK,76.8,174
+547,D. Srna,36,0,Croatia,80,80,Cagliari,1.7,27,1,D,61.2,172
+548,B. Schweinsteiger,33,0,Germany,80,80,Chicago Fire,6,11,1,D,72,174
+549,Moyá,34,0,Spain,80,80,Real Sociedad,6,26,1,GK,74.4,183
+550,W. Rooney,32,0,England,80,80,DC United,12,13,1,A,70.8,183
+551,Fernando Torres,34,0,Spain,80,80,Sagan Tosu,8,10,1,A,73.2,174
+552,S. Sorrentino,39,0,Italy,80,80,Chievo Verona,1,10,1,GK,73.2,187
+553,V. Tsygankov,20,1,Ukraine,79,86,Dynamo Kyiv,18,1,0,M,61.2,152
+554,Rúben Dias,21,1,Portugal,79,85,SL Benfica,15,10,1,D,73.2,181
+555,David Neres,21,1,Brazil,79,86,Ajax,18,18,0,A,70.8,146
+556,Raphinha,21,1,Brazil,79,86,Sporting CP,18,13,0,M,70.8,150
+557,A. Harit,21,1,Morocco,79,86,FC Schalke 04,18,27,1,M,61.32,148
+558,Richarlison,21,1,Brazil,79,86,Everton,18,79,1,A,61.32,154
+559,L. Martínez,20,1,Argentina,79,86,Inter,18,54,1,A,70.8,174
+560,F. Kessié,21,1,Ivory Coast,79,88,Milan,19.5,24,1,M,72,168
+561,Luimo Boas Santos,30,0,Brazil,79,79,Santos,12,26,1,A,70.8,161
+562,Gabri Prestão,26,1,Brazil,79,79,Internacional,9,24,1,GK,73.2,176
+563,Melvin Parrela,30,0,Brazil,79,79,América FC (Minas Gerais),9.5,20,1,M,74.4,194
+564,Antônio Chiamuloira,30,0,Brazil,79,79,Internacional,9.5,30,0,D,72,174
+565,Maikel Catarino,34,0,Brazil,79,79,Atlético Mineiro,3.6,38,1,D,61.2,165
+566,André Silva,22,1,Portugal,79,87,Sevilla FC,19,84,1,A,73.2,174
+567,C. Pulisic,19,1,United States,79,87,Borussia Dortmund,18,26,1,M,61.2,152
+568,M. Dmitrović,26,1,Serbia,79,80,SD Eibar,10,21,0,GK,76.8,198
+569,L. Tousart,21,1,France,79,84,Olympique Lyonnais,14.5,43,1,M,73.2,183
+570,Marcos Llorente,23,1,Spain,79,87,Real Madrid,16,110,1,M,72,161
+571,B. Verbič,24,1,Slovenia,79,81,Dynamo Kyiv,15.5,1,1,M,61.2,154
+572,S. Bergwijn,20,1,Netherlands,79,86,PSV,18,17,1,A,61.2,172
+573,A. Diallo,22,1,France,79,86,Borussia Dortmund,15,43,0,D,73.2,174
+574,A. Golovin,22,1,Russia,79,85,AS Monaco,17,61,1,M,61.32,152
+575,M. Campaña,29,0,Uruguay,79,80,Independiente,10,21,1,GK,73.2,165
+576,C. Pavón,22,1,Argentina,79,85,Boca Juniors,17.5,27,1,A,70.8,172
+577,K. Toko-Ekambi,25,1,Cameroon,79,80,Villarreal CF,15,38,1,A,73.2,163
+578,Granell,29,0,Spain,79,79,Girona FC,12,37,0,D,70.8,154
+579,F. Cervi,24,1,Argentina,79,84,SL Benfica,17,15,0,A,66,137
+580,J. Weigl,22,1,Germany,79,84,Borussia Dortmund,14.5,43,1,M,73.2,159
+581,V. Lindelöf,23,1,Sweden,79,85,Manchester United,14.5,91,1,D,74.4,176
+582,A. Rebić,24,1,Croatia,79,82,Eintracht Frankfurt,16,39,1,M,73.2,172
+583,A. Sanabria,22,1,Paraguay,79,85,Real Betis,17.5,27,1,A,61.32,163
+584,R. Battaglia,26,1,Argentina,79,80,Sporting CP,14.5,17,1,M,74.4,174
+585,M. Philipp,24,1,Germany,79,84,Borussia Dortmund,17,53,1,A,72,174
+586,A. Saint-Maximin,21,1,France,79,86,OGC Nice,18,31,1,A,69.6,148
+587,D. Zappacosta,26,1,Italy,79,81,Chelsea,12.5,94,1,D,72,159
+588,L. Alario,25,1,Argentina,79,82,Bayer 04 Leverkusen,16,67,1,A,72,172
+589,D. Benedetto,28,0,Argentina,79,79,Boca Juniors,13,32,1,A,61.2,176
+590,I. Marcone,28,0,Argentina,79,80,Cruz Azul,11.5,31,1,M,72,183
+591,J. Gbamin,22,1,Ivory Coast,79,84,1. FSV Mainz 05,14.5,26,1,M,73.2,183
+592,J. Lerma,23,1,Colombia,79,84,Bournemouth,14.5,55,1,M,61.2,154
+593,Ricardo Horta,23,1,Portugal,79,84,SC Braga,17,16,1,M,69.6,139
+594,R. Zobnin,24,1,Russia,79,86,Spartak Moscow,15,1,1,M,72,165
+595,M. Meyer,22,1,Germany,79,83,Crystal Palace,16,53,1,M,69.6,150
+596,Bruma,23,1,Portugal,79,83,RB Leipzig,16.5,48,1,A,69.6,154
+597,R. Centurión,25,1,Argentina,79,81,Racing Club,15.5,25,1,M,70.8,163
+598,Jonny,24,1,Spain,79,83,Wolverhampton Wanderers,13.5,43,1,D,68.4,154
+599,Otávio,23,1,Brazil,79,85,FC Porto,17.5,15,1,M,69.6,157
+600,J. Hofmann,25,1,Germany,79,80,Borussia Mönchengladbach,15,32,1,M,70.8,154
+601,N. Aké,23,1,Netherlands,79,84,Bournemouth,14.5,55,0,D,61.32,165
+602,J. Hector,28,0,Germany,79,79,1. FC Köln,10,26,0,D,73.2,165
+603,S. Kolašinac,25,1,Bosnia Herzegovina,79,82,Arsenal,13,89,0,D,72,187
+604,G. Pizarro,28,0,Argentina,79,79,Tigres U.A.N.L.,10,58,1,M,73.2,163
+605,Roger,27,1,Spain,79,80,Levante UD,14.5,32,1,A,61.2,163
+606,Sergio Rico,24,1,Spain,79,83,Fulham,11.5,13,1,GK,76.8,194
+607,L. Milivojević,27,1,Serbia,79,81,Crystal Palace,12.5,56,1,M,73.2,176
+608,D. Baselli,26,1,Italy,79,82,Torino,15.5,49,1,M,72,154
+609,K. Rekik,23,1,Netherlands,79,83,Hertha BSC,14,26,0,D,73.2,174
+610,Denis Suárez,24,1,Spain,79,86,FC Barcelona,17.5,120,1,M,70.8,152
+611,W. Orban,25,1,Hungary,79,81,RB Leipzig,13,48,1,D,73.2,183
+612,Mário Rui,27,1,Portugal,79,80,Napoli,11.5,60,0,D,68.4,148
+613,Iñigo Martínez,27,1,Spain,79,80,Athletic Club de Bilbao,12,26,0,D,72,170
+614,K. Zouma,23,1,France,79,83,Everton,14,80,1,D,75.6,212
+615,Roque Mesa,29,0,Spain,79,79,Sevilla FC,10,20,1,M,68.4,163
+616,J. Brooks,25,1,United States,79,84,VfL WoAsburg,14,44,0,D,76.8,172
+617,L. Karius,25,1,Germany,79,83,Beşiktaş JK,11.5,71,1,GK,74.4,192
+618,Zé Luís,27,1,Cape Verde,79,80,Spartak Moscow,14.5,1,0,A,72,194
+619,D. Klaassen,25,1,Netherlands,79,81,SV Werder Bremen,15,32,1,M,61.2,154
+620,M. Elyounoussi,23,1,NoAay,79,85,Southampton,17.5,48,1,M,61.2,154
+621,L. Bittencourt,24,1,Germany,79,82,TSG 1899 Hoffenheim,16,35,1,M,68.4,137
+622,Sergi Darder,24,1,Spain,79,83,RCD Espanyol,16,29,1,M,61.32,157
+623,J. Roussillon,25,1,France,79,84,VfL WoAsburg,14,44,0,D,70.8,176
+624,D. Demme,26,1,Germany,79,80,RB Leipzig,12,50,1,M,68.4,150
+625,J. Gouweleeuw,26,1,Netherlands,79,80,FC Augsburg,12,28,1,D,74.4,172
+626,M. Rojo,28,0,Argentina,79,79,Manchester United,10,115,0,D,74.4,176
+627,J. Veretout,25,1,France,79,84,Fiorentina,16.5,59,1,M,70.8,148
+628,L. Kurzawa,25,1,France,79,82,Paris Saint-Germain,13,68,0,D,72,168
+629,G. Ramírez,27,1,Uruguay,79,79,Sampdoria,13,41,0,M,72,170
+630,David López,28,0,Spain,79,79,RCD Espanyol,10,32,1,D,72,179
+631,C. Tătăruşanu,32,0,Romania,79,79,FC Nantes,7,23,1,GK,78,190
+632,A. Mandi,26,1,Algeria,79,82,Real Betis,13,26,1,D,72,172
+633,D. Sidibé,25,1,France,79,80,AS Monaco,12,61,1,D,72,179
+634,Y. Konoplyanka,28,0,Ukraine,79,79,FC Schalke 04,12.5,41,1,A,61.2,172
+635,S. Berghuis,26,1,Netherlands,79,80,Feyenoord,15,20,0,A,72,159
+636,H. Vanaken,25,1,Belgium,79,81,Club Brugge KV,15.5,27,1,M,78,176
+637,Campaña,25,1,Spain,79,82,Levante UD,15.5,28,1,M,61.2,154
+638,M. van Ginkel,25,1,Netherlands,79,80,Chelsea,14.5,98,1,M,73.2,181
+639,Nolito,31,0,Spain,79,79,Sevilla FC,11,21,1,M,70.8,159
+640,M. Gregoritsch,24,1,Austria,79,82,FC Augsburg,16,27,0,M,76.8,192
+641,Ibai Gómez,28,0,Spain,79,79,Deportivo Alavés,12.5,31,1,M,61.2,159
+642,Danilo,26,1,Brazil,79,80,Manchester City,12,110,1,D,72,172
+643,R. Barkley,24,1,England,79,82,Chelsea,16,89,1,M,73.2,192
+644,M. Ryan,26,1,Australia,79,81,Brighton & Hove Albion,10.5,41,1,GK,72,181
+645,Sergio León,29,0,Spain,79,79,Real Betis,12.5,32,1,A,61.2,161
+646,B. Stambouli,27,1,France,79,79,FC Schalke 04,10.5,33,1,D,61.32,181
+647,J. Guilavogui,27,1,France,79,80,VfL WoAsburg,12,46,1,M,74.4,170
+648,Sérgio Oliveira,26,1,Portugal,79,82,FC Porto,15.5,17,1,M,61.32,159
+649,D. Caligiuri,30,0,Italy,79,79,FC Schalke 04,9,33,1,D,72,176
+650,C. Wilson,26,1,England,79,81,Bournemouth,15.5,77,1,A,61.32,146
+651,P. Jones,26,1,England,79,80,Manchester United,12,110,1,D,73.2,157
+652,Borja García,27,1,Spain,79,79,Girona FC,13,35,1,M,70.8,159
+653,Y. Belhanda,28,0,Morocco,79,79,Galatasaray SK,12.5,65,1,M,61.2,165
+654,G. Pezzella,27,1,Argentina,79,81,Fiorentina,12.5,56,1,D,73.2,179
+655,Jaume Costa,30,0,Spain,79,79,Villarreal CF,9,34,0,D,68.4,137
+656,C. Tosun,27,1,Turkey,79,80,Everton,14.5,105,1,A,72,172
+657,Escudero,28,0,Spain,79,79,Sevilla FC,10,20,0,M,70.8,159
+658,Kike García,28,0,Spain,79,79,SD Eibar,13,32,1,A,73.2,174
+659,Elkeson,28,0,Brazil,79,79,Shanghai SIPG FC,13,25,1,A,61.32,170
+660,Ricardo Goulart,27,1,Brazil,79,80,Guangzhou Evergrande Taobao FC,14.5,25,1,CF,61.32,176
+661,J. Guðmundsson,27,1,Iceland,79,79,Burnley,13,61,0,M,61.2,170
+662,N. Clyne,27,1,England,79,80,Liverpool,11.5,94,1,D,70.8,148
+663,M. Hitz,30,0,Switzerland,79,79,Borussia Dortmund,8,41,1,GK,76.8,196
+664,De Marcos,29,0,Spain,79,79,Athletic Club de Bilbao,9.5,27,1,D,72,176
+665,B. Mee,28,0,England,79,79,Burnley,10,58,0,D,72,181
+666,Rafael,27,1,Brazil,79,79,Olympique Lyonnais,10.5,60,1,D,69.6,172
+667,Iborra,30,0,Spain,79,79,Leicester City,9.5,66,1,M,75.6,201
+668,J. Wilshere,26,1,England,79,81,West Ham United,15,83,0,M,69.6,150
+669,B. Hübner,28,0,Germany,79,79,TSG 1899 Hoffenheim,10,39,0,D,76.8,190
+670,Souza,29,0,Brazil,79,79,Al Ahli,10,44,1,M,74.4,176
+671,F. Coquelin,27,1,France,79,80,Valencia CF,12,36,1,M,61.2,163
+672,Alex Teixeira,28,0,Brazil,79,79,Jiangsu Suning FC,13,30,1,A,69.6,154
+673,A. Dzagoev,28,0,Russia,79,79,PFC CSKA Moscow,12.5,1,1,M,61.2,165
+674,Y. M'Vila,28,0,France,79,80,AS Saint-Étienne,11.5,36,1,M,72,176
+675,K. Asamoah,29,0,Ghana,79,79,Inter,9.5,62,0,D,69.6,165
+676,R. Zieler,29,0,Germany,79,80,VfB Stuttgart,10,32,1,GK,74.4,179
+677,D. Drinkwater,28,0,England,79,79,Chelsea,12.5,110,1,M,61.2,179
+678,N. Kalinić,30,0,Croatia,79,79,Atlético Madrid,12,60,1,A,74.4,176
+679,Mariano,32,0,Brazil,79,79,Galatasaray SK,7,57,1,D,61.2,152
+680,S. Feghouli,28,0,Algeria,79,79,Galatasaray SK,12.5,65,1,M,70.8,165
+681,Adrien Silva,29,0,Portugal,79,79,Leicester City,12,75,1,M,70.8,152
+682,Fernando,30,0,Brazil,79,79,Galatasaray SK,9.5,57,1,M,72,168
+683,I. Traoré,30,0,Guinea,79,79,Borussia Mönchengladbach,12,34,0,M,68.4,134
+684,G. Mercado,31,0,Argentina,79,79,Sevilla FC,8.5,19,1,D,61.32,183
+685,N. Petersen,29,0,Germany,79,79,SC Freiburg,12.5,35,1,A,74.4,185
+686,O. Karnezis,32,0,Greece,79,79,Napoli,7,48,1,GK,75.6,179
+687,M. Sakho,28,0,France,79,80,Crystal Palace,11.5,58,0,D,74.4,183
+688,Sidnei,28,0,Brazil,79,80,Real Betis,11.5,27,1,D,74.4,194
+689,S. Jovetić,28,0,Montenegro,79,79,AS Monaco,13,79,1,A,72,174
+690,Eder,31,0,Italy,79,79,Jiangsu Suning FC,11.5,29,1,A,61.2,159
+691,J. Hernández,30,0,Mexico,79,79,West Ham United,12,90,1,A,70.8,161
+692,Fabricio,30,0,Spain,79,79,Fulham,8,47,1,GK,72,176
+693,Kiko Casilla,31,0,Spain,79,79,Real Madrid,7.5,105,1,GK,75.6,190
+694,Ángel,31,0,Spain,79,79,Getafe CF,11.5,31,1,A,69.6,150
+695,M. Schneiderlin,28,0,France,79,79,Everton,10,92,1,M,73.2,165
+696,M. Fellaini,30,0,Belgium,79,79,Manchester United,11.5,120,1,M,76.8,187
+697,P. Wernbloom,32,0,Sweden,79,79,PAOK,7,1,1,M,74.4,187
+698,D. Ospina,29,0,Colombia,79,79,Napoli,8.5,80,1,GK,72,176
+699,S. Mignolet,30,0,Belgium,79,79,Liverpool,8,76,1,GK,76.8,192
+700,A. Begović,31,0,Bosnia Herzegovina,79,79,Bournemouth,7.5,52,1,GK,79.2,183
+701,N. Şahin,29,0,Turkey,79,79,SV Werder Bremen,10,32,0,M,61.32,161
+702,R. Bertrand,28,0,England,79,79,Southampton,10,53,0,D,61.2,187
+703,A. Masiello,32,0,Italy,79,79,Atalanta,7,30,1,D,72,181
+704,T. Walcott,29,0,England,79,79,Everton,12.5,105,1,M,70.8,150
+705,Charles,34,0,Brazil,79,79,SD Eibar,6.5,31,1,A,61.2,165
+706,T. Heaton,32,0,England,79,79,Burnley,7,45,1,GK,74.4,203
+707,H. Ben AAa,31,0,France,79,79,Stade Rennais FC,11,38,0,M,61.2,163
+708,D. Abraham,31,0,Argentina,79,79,Eintracht Frankfurt,8.5,37,1,D,74.4,185
+709,E. Lavezzi,33,0,Argentina,79,79,Hebei China Fortune FC,8,22,1,M,69.6,165
+710,S. Kalou,32,0,Ivory Coast,79,79,Hertha BSC,10,34,1,M,72,170
+711,J. FaAán,33,0,Peru,79,79,Lokomotiv Moscow,7.5,1,1,M,61.2,185
+712,R. Babel,31,0,Netherlands,79,79,Beşiktaş JK,11,55,1,M,73.2,187
+713,A. Young,32,0,England,79,79,Manchester United,7,110,1,D,70.8,143
+714,J. Hart,31,0,England,79,79,Burnley,7.5,45,1,GK,78,201
+715,L. López,35,0,Argentina,79,79,Racing Club,6,22,1,A,70.8,159
+716,D. Baier,34,0,Germany,79,79,FC Augsburg,3.8,28,1,M,70.8,172
+717,B. Yılmaz,32,0,Turkey,79,79,Trabzonspor,10,41,1,A,74.4,170
+718,R. Adler,33,0,Germany,79,79,1. FSV Mainz 05,6.5,25,1,GK,75.6,187
+719,S. Lichtsteiner,34,0,Switzerland,79,79,Arsenal,3.6,94,1,D,72,168
+720,E. Adebayor,34,0,Togo,79,79,Medipol Başakşehir FK,6.5,34,1,A,76.8,181
+721,E. Belözoğlu,37,0,Turkey,79,79,Medipol Başakşehir FK,4,23,0,M,68.4,159
+722,Loren,24,1,Spain,78,83,Real Betis,14,25,1,A,74.4,181
+723,Éder Militão,20,1,Brazil,78,87,FC Porto,14,10,1,D,73.2,174
+724,F. Chiesa,20,1,Italy,78,87,Fiorentina,16,46,1,A,70.8,154
+725,M. Lazzari,24,1,Italy,78,81,SPAL,13,15,1,M,70.8,148
+726,A. Hakimi,19,1,Morocco,78,86,Borussia Dortmund,12.5,49,1,D,61.32,161
+727,S. Nakajima,23,1,Japan,78,84,Portimonense SC,14,12,1,A,66,141
+728,L. Jović,20,1,Serbia,78,86,Eintracht Frankfurt,15.5,12,1,A,72,192
+729,S. Ascacíbar,21,1,Argentina,78,84,VfB Stuttgart,12,24,1,M,67.2,154
+730,A. Lafont,19,1,France,78,90,Fiorentina,14,12,1,GK,76.8,181
+731,T. Alexander-Arnold,19,1,England,78,88,Liverpool,14,36,1,D,61.32,152
+732,F. Krovinović,22,1,Croatia,78,84,SL Benfica,14,12,1,M,61.2,154
+733,Sidney Pessinho,26,1,Brazil,78,78,Internacional,9,27,1,M,74.4,187
+734,Everticinho,30,0,Brazil,78,78,Grêmio,7.5,29,1,D,70.8,165
+735,Claudio Coíntra,34,0,Brazil,78,78,Internacional,5,30,0,M,70.8,157
+736,Ronaldo Esler,30,0,Brazil,78,78,Atlético Mineiro,7.5,34,0,D,67.2,143
+737,P. Lees-Melou,25,1,France,78,80,OGC Nice,12.5,33,1,M,73.2,152
+738,B. ChiAell,21,1,England,78,85,Leicester City,12.5,43,0,D,61.2,170
+739,João Novais,24,1,Portugal,78,81,SC Braga,13,15,1,M,72,170
+740,D. Calabria,21,1,Italy,78,88,Milan,14.5,52,1,D,70.8,154
+741,F. Mendy,23,1,France,78,86,Olympique Lyonnais,13,47,0,D,61.2,161
+742,L. Pellegrini,22,1,Italy,78,84,Roma,14,51,1,M,73.2,170
+743,Soares,27,1,Brazil,78,79,FC Porto,12,17,1,A,74.4,181
+744,Daniel Podence,22,1,Portugal,78,84,Olympiacos CFP,14,1,1,M,64.8,143
+745,M. Díaz,32,0,Argentina,78,78,Club Atlético Huracán,6,15,1,GK,74.4,185
+746,G. Martínez,25,1,Argentina,78,82,River Plate,13.5,25,0,M,69.6,165
+747,M. Eggestein,21,1,Germany,78,84,SV Werder Bremen,14,22,1,M,61.32,165
+748,Trezeguet,23,1,Egypt,78,80,Kasimpaşa SK,13,15,1,M,61.2,172
+749,N. Amiri,21,1,Germany,78,85,TSG 1899 Hoffenheim,14.5,27,1,M,61.32,161
+750,Vallejo,21,1,Spain,78,86,Real Madrid,13.5,81,1,D,72,174
+751,J. Gomez,21,1,England,78,88,Liverpool,14.5,61,1,D,74.4,170
+752,Diogo Jota,21,1,Portugal,78,86,Wolverhampton Wanderers,15.5,56,1,A,61.2,161
+753,Joan Jordán,23,1,Spain,78,83,SD Eibar,13.5,22,1,M,72,163
+754,Dyego Sousa,28,0,Brazil,78,78,SC Braga,10.5,19,1,A,75.6,183
+755,A. Marušić,25,1,Montenegro,78,79,Lazio,12.5,46,1,M,73.2,187
+756,David Soria,25,1,Spain,78,80,Getafe CF,9,18,1,GK,76.8,187
+757,V. Rongier,23,1,France,78,83,FC Nantes,14,25,1,M,69.6,154
+758,W. Weghorst,25,1,Netherlands,78,80,VfL WoAsburg,13,48,1,A,79.2,185
+759,O. Al Soma,29,0,Syria,78,78,Al Ahli,10.5,47,1,A,75.6,190
+760,M. Nakamba,24,1,Zimbabwe,78,83,Club Brugge KV,12,20,0,M,70.8,174
+761,Petros,29,0,Brazil,78,78,Al Nassr,10,43,1,M,61.32,170
+762,Pablo Maffeo,20,1,Spain,78,86,VfB Stuttgart,13,24,1,D,69.6,154
+763,Y. Mina,23,1,Colombia,78,85,Everton,12.5,68,1,D,78,207
+764,M. Dúbravka,29,0,Slovakia,78,80,Newcastle United,8.5,39,1,GK,75.6,176
+765,Diego Carlos,25,1,Brazil,78,80,FC Nantes,10.5,25,1,D,73.2,190
+766,D. Djené,26,1,Togo,78,79,Getafe CF,10,23,1,D,70.8,157
+767,G. Simeone,22,1,Argentina,78,85,Fiorentina,15,53,1,A,61.32,179
+768,M. Meza,25,1,Argentina,78,79,Independiente,12.5,23,1,M,61.32,168
+769,Bastos,26,1,Angola,78,79,Lazio,10,44,1,D,61.32,170
+770,S. Lobotka,23,1,Slovakia,78,84,RC Celta,14,22,1,M,68.4,141
+771,Y. Tielemans,21,1,Belgium,78,87,AS Monaco,16,47,1,M,70.8,159
+772,Marcelo Goiano,30,0,Brazil,78,78,SC Braga,7.5,15,1,D,70.8,152
+773,K. Tete,22,1,Netherlands,78,83,Olympique Lyonnais,11.5,47,1,D,61.32,157
+774,Capa,26,1,Spain,78,81,Athletic Club de Bilbao,10.5,23,1,D,70.8,163
+775,M. Sportiello,26,1,Italy,78,81,Frosinone,9,22,1,GK,76.8,192
+776,Jemerson,25,1,Brazil,78,81,AS Monaco,11,55,1,D,72,170
+777,N. Maksimović,26,1,Serbia,78,81,Napoli,11,54,1,D,76.8,192
+778,D. Zapata,27,1,Colombia,78,79,Atalanta,12,41,1,A,74.4,194
+779,J. Correa,23,1,Argentina,78,83,Lazio,14,42,1,M,74.4,170
+780,E. Rigoni,25,1,Argentina,78,81,Atalanta,13,29,0,M,61.2,163
+781,C. Izquierdoz,29,0,Argentina,78,78,Boca Juniors,8,25,1,D,73.2,196
+782,W. Barrios,24,1,Colombia,78,85,Boca Juniors,12.5,20,1,M,61.2,157
+783,J. Mojica,25,1,Colombia,78,81,Girona FC,10.5,28,0,D,73.2,161
+784,A. Selikhov,24,1,Russia,78,82,Spartak Moscow,9.5,1,1,GK,74.4,187
+785,A. Iwobi,22,1,Nigeria,78,84,Arsenal,14,81,1,M,73.2,165
+786,D. Laxalt,25,1,Uruguay,78,80,Milan,12.5,76,0,D,61.2,150
+787,N. Bentaleb,23,1,Algeria,78,83,FC Schalke 04,13.5,29,0,M,74.4,172
+788,N. Stark,23,1,Germany,78,84,Hertha BSC,12,24,1,D,75.6,179
+789,M. Lemina,24,1,Gabon,78,83,Southampton,13.5,44,1,M,72,187
+790,L. Dendoncker,23,1,Belgium,78,84,Wolverhampton Wanderers,12,18,1,D,74.4,194
+791,Ricardo Esgaio,25,1,Portugal,78,80,SC Braga,12.5,16,1,M,69.6,150
+792,P. Sisto,23,1,Denmark,78,84,RC Celta,14,25,1,A,69.6,152
+793,P. Max,24,1,Germany,78,81,FC Augsburg,11,22,0,D,61.2,170
+794,R. Gagliardini,24,1,Italy,78,82,Inter,11.5,46,1,M,75.6,170
+795,Pere Pons,25,1,Spain,78,83,Girona FC,13.5,31,1,M,61.2,154
+796,D. Berardi,23,1,Italy,78,83,Sassuolo,14,50,0,A,72,159
+797,M. Halstenberg,26,1,Germany,78,79,RB Leipzig,10,45,0,D,74.4,181
+798,J. Quintero,25,1,Colombia,78,80,River Plate,12.5,15,0,M,67.2,148
+799,Tiago Volpi,27,1,Brazil,78,80,Querétaro,8.5,10,1,GK,73.2,187
+800,Óliver Torres,23,1,Spain,78,83,FC Porto,13.5,13,1,M,70.8,139
+801,Omar Mascarell,25,1,Spain,78,80,FC Schalke 04,10.5,29,1,M,61.32,168
+802,H. Sakai,28,0,Japan,78,78,Olympique de Marseille,8,44,1,D,72,154
+803,Andreas Pereira,22,1,Brazil,78,84,Manchester United,14,91,1,M,61.2,157
+804,A. Januzaj,23,1,Belgium,78,84,Real Sociedad,14,29,0,A,73.2,168
+805,B. Cristante,23,1,Italy,78,86,Roma,15,26,1,M,73.2,176
+806,Matheus,25,1,Brazil,78,82,SC Braga,9.5,12,1,GK,74.4,168
+807,B. Traoré,22,1,Burkina Faso,78,83,Olympique Lyonnais,14,57,0,M,61.32,161
+808,Y. Poulsen,24,1,Denmark,78,80,RB Leipzig,13,48,1,A,76.8,172
+809,L. Trossard,23,1,Belgium,78,84,KRC Genk,14,17,1,M,69.6,148
+810,M. Arnold,24,1,Germany,78,83,VfL WoAsburg,13.5,40,0,M,72,163
+811,M. De Sciglio,25,1,Italy,78,81,Juventus,10.5,78,1,D,72,172
+812,Leo Baptistao,25,1,Brazil,78,79,RCD Espanyol,12.5,29,1,A,61.32,159
+813,V. Chiricheş,28,0,Romania,78,78,Napoli,8.5,57,1,D,72,165
+814,L. Pavoletti,29,0,Italy,78,78,Cagliari,10.5,39,1,A,74.4,187
+815,A. Cragno,24,1,Italy,78,84,Cagliari,10.5,21,1,GK,72,172
+816,L. Castro,29,0,Argentina,78,78,Cagliari,10,36,1,M,72,172
+817,N. Füllkrug,25,1,Germany,78,79,Hannover 96,12.5,38,1,A,74.4,183
+818,F. Fajr,29,0,Morocco,78,78,Stade Malherbe Caen,10,28,1,M,61.2,157
+819,R. Jiménez,27,1,Mexico,78,79,Wolverhampton Wanderers,12,15,1,A,74.4,179
+820,E. Sala,27,1,Argentina,78,78,FC Nantes,11,31,1,A,74.4,183
+821,S. García,27,1,Uruguay,78,78,Godoy Cruz,11,20,1,A,61.32,176
+822,S. Arias,26,1,Colombia,78,81,Atlético Madrid,10.5,46,1,D,61.2,159
+823,B. Reynet,27,1,France,78,80,Toulouse Football Club,8.5,24,1,GK,73.2,187
+824,Pozuelo,26,1,Spain,78,79,KRC Genk,12,19,1,M,69.6,159
+825,A. Trebel,27,1,France,78,79,RSC Anderlecht,11.5,23,0,M,70.8,163
+826,J. Lascelles,24,1,England,78,83,Newcastle United,12,39,1,D,74.4,196
+827,T. Kongolo,24,1,Netherlands,78,83,Huddersfield Town,12,39,0,D,74.4,154
+828,A. Carrillo,27,1,Peru,78,78,Al Hilal,11,14,1,M,61.32,172
+829,Álvaro,28,0,Spain,78,79,Villarreal CF,9.5,32,1,D,72,165
+830,G. Defrel,27,1,France,78,78,Sampdoria,11,64,0,A,61.2,170
+831,Fernando,26,1,Brazil,78,81,Spartak Moscow,11,1,1,M,70.8,176
+832,V. Darida,27,1,Czech Republic,78,78,Hertha BSC,10.5,30,1,M,68.4,141
+833,R. Saponara,26,1,Italy,78,80,Sampdoria,12.5,56,1,M,72,161
+834,Pedro Mendes,27,1,Portugal,78,80,Montpellier HSC,10,26,1,D,73.2,172
+835,C. Schindler,28,0,Germany,78,80,Huddersfield Town,10,48,1,D,74.4,170
+836,N. Chadli,28,0,Belgium,78,78,AS Monaco,10.5,66,1,M,74.4,187
+837,Arbilla,31,0,Spain,78,78,SD Eibar,7,23,1,D,61.2,168
+838,L. Dunk,26,1,England,78,81,Brighton & Hove Albion,11,46,1,D,76.8,194
+839,P. Hernández,31,0,Chile,78,78,Independiente,9,24,0,M,73.2,179
+840,J. Guidetti,26,1,Sweden,78,81,Deportivo Alavés,13,29,1,A,73.2,174
+841,Sergi Gómez,26,1,Spain,78,83,Sevilla FC,11.5,17,1,D,73.2,170
+842,Oriol Romeu,26,1,Spain,78,80,Southampton,10.5,46,1,M,72,183
+843,Lucas Pérez,29,0,Spain,78,78,West Ham United,10.5,85,0,A,61.32,161
+844,B. Natcho,30,0,Israel,78,78,Olympiacos CFP,9.5,1,1,M,61.2,165
+845,Cláudio Ramos,26,1,Portugal,78,82,CD Tondela,9.5,6,1,GK,72,187
+846,F. Lejeune,27,1,France,78,80,Newcastle United,10,46,1,D,74.4,196
+847,G. Krychowiak,28,0,Poland,78,79,Lokomotiv Moscow,9.5,1,1,M,73.2,187
+848,N. Lodeiro,29,0,Uruguay,78,78,Seattle Sounders FC,10,11,0,M,68.4,152
+849,O. Özyakup,25,1,Turkey,78,81,Beşiktaş JK,13,47,1,M,61.32,165
+850,C. Tévez,34,0,Argentina,78,78,Boca Juniors,5,26,1,M,68.4,176
+851,K. Papadopoulos,26,1,Greece,78,80,Hamburger SV,10.5,16,1,D,73.2,192
+852,M. Gradel,30,0,Ivory Coast,78,78,Toulouse Football Club,10,32,1,A,61.2,154
+853,M. Debuchy,32,0,France,78,78,AS Saint-Étienne,5.5,31,1,D,70.8,168
+854,V. Moses,27,1,Nigeria,78,78,Chelsea,11,105,1,A,61.2,170
+855,Z. Junuzović,30,0,Austria,78,78,FC Red Bull Salzburg,9.5,39,1,M,69.6,152
+856,Granero,30,0,Spain,78,78,RCD Espanyol,9.5,30,1,M,61.32,172
+857,J. Baumgartlinger,30,0,Austria,78,78,Bayer 04 Leverkusen,7.5,53,1,M,72,190
+858,Fábio Coentrão,30,0,Portugal,78,78,Rio Ave FC,10,13,0,A,61.2,146
+859,B. Costil,30,0,France,78,78,FC Girondins de Bordeaux,6.5,32,1,GK,74.4,194
+860,N. Gudelj,26,1,Serbia,78,80,Sporting CP,10.5,19,1,M,74.4,161
+861,L. Pratto,30,0,Argentina,78,78,River Plate,10,28,1,A,74.4,201
+862,E. Hernández,30,0,Mexico,78,78,Cruz Azul,10,29,1,M,68.4,143
+863,Jurado,32,0,Spain,78,78,Al Ahli,8,41,1,M,70.8,159
+864,R. Cabella,28,0,France,78,78,AS Saint-Étienne,10.5,36,1,M,68.4,157
+865,Rafael Tolói,27,1,Brazil,78,80,Atalanta,10,27,1,D,73.2,165
+866,C. Bravo,35,0,Chile,78,78,Manchester City,2.4,50,1,GK,72,176
+867,Hernanes,33,0,Brazil,78,78,Hebei China Fortune FC,6,19,1,M,61.32,170
+868,K. Honda,32,0,Japan,78,78,Melbourne Victory,8,12,0,M,72,163
+869,J. Holebas,34,0,Greece,78,78,Watford,2.9,51,0,D,73.2,179
+870,Javi García,31,0,Spain,78,78,Real Betis,7,23,1,M,73.2,181
+871,Sergio,31,0,Spain,78,78,RC Celta,6.5,19,1,GK,61.2,165
+872,M. Cáceres,31,0,Uruguay,78,78,Lazio,7,44,1,D,61.32,172
+873,Daniel Carriço,29,0,Portugal,78,78,Sevilla FC,8,18,1,D,61.32,176
+874,J. Cork,29,0,England,78,78,Burnley,10,58,1,M,72,165
+875,J. Tomkins,29,0,England,78,79,Crystal Palace,9,53,1,D,76.8,163
+876,Guilherme,32,0,Russia,78,78,Lokomotiv Moscow,6,1,1,GK,78,209
+877,Gervinho,31,0,Ivory Coast,78,78,Parma,9,49,1,A,61.2,146
+878,J. Shelvey,26,1,England,78,80,Newcastle United,12.5,50,1,M,72,176
+879,R. Eremenko,31,0,Finland,78,78,Spartak Moscow,9,1,1,M,73.2,176
+880,R. Vormer,30,0,Netherlands,78,78,Club Brugge KV,9.5,26,1,M,61.2,174
+881,J. Lens,30,0,Netherlands,78,78,Beşiktaş JK,10,50,1,M,61.2,165
+882,Adriano,33,0,Brazil,78,78,Beşiktaş JK,4,45,0,D,69.6,165
+883,S. Cook,27,1,England,78,78,Bournemouth,8.5,58,1,D,73.2,181
+884,L. Podolski,33,0,Germany,78,78,Vissel Kobe,6.5,11,0,A,72,183
+885,C. Ansaldi,31,0,Argentina,78,78,Torino,7,54,0,M,61.32,168
+886,Manu García,32,0,Spain,78,78,Deportivo Alavés,6,24,0,M,72,163
+887,R. Alessandrini,29,0,France,78,78,LA Galaxy,10,11,0,M,69.6,154
+888,J. Ward-Prowse,23,1,England,77,82,Southampton,12,41,1,M,69.6,146
+889,M. Harnik,31,0,Austria,77,77,SV Werder Bremen,8,31,1,A,73.2,176
+890,B. Moukandjo,29,0,Cameroon,77,77,Beijing Renhe FC,9,25,1,M,61.32,163
+891,G. Pereiro,23,1,Uruguay,77,82,PSV,12,15,0,M,74.4,168
+892,G. Castro,31,0,Germany,77,77,VfB Stuttgart,7.5,34,1,M,69.6,159
+893,Aarón Martín,21,1,Spain,77,85,1. FSV Mainz 05,11,18,0,D,61.32,159
+894,F. Johnson,30,0,United States,77,77,Borussia Mönchengladbach,8.5,29,1,M,72,163
+895,L. López,28,0,Argentina,77,77,Genoa,7,13,1,D,75.6,181
+896,M. Dossevi,30,0,Togo,77,77,Toulouse Football Club,8.5,30,1,M,69.6,143
+897,Caiuby,29,0,Brazil,77,77,FC Augsburg,8.5,27,1,M,72,187
+898,Gabriel,24,1,Brazil,77,81,SL Benfica,11.5,11,0,M,74.4,181
+899,Iván Ramis,33,0,Spain,77,77,SD Eibar,3.6,22,1,D,74.4,181
+900,M. Suchý,30,0,Czech Republic,77,77,FC Basel 1893,6.5,26,1,D,72,185
+901,T. Vilhena,23,1,Netherlands,77,81,Feyenoord,11.5,13,0,M,70.8,165
+902,E. Çolak,27,1,Turkey,77,77,Al Wehda,9.5,27,0,M,68.4,148
+903,V. Germain,28,0,France,77,77,Olympique de Marseille,9,49,1,A,61.32,161
+904,G. Hoarau,34,0,France,77,77,BSC Young Boys,4.7,26,1,A,76.8,187
+905,Sergio García,35,0,Spain,77,77,RCD Espanyol,4.1,23,1,A,70.8,159
+906,E. Choupo-Moting,29,0,Cameroon,77,77,Paris Saint-Germain,9,75,1,A,75.6,201
+907,J. Pinola,35,0,Argentina,77,77,River Plate,2.1,16,0,D,61.32,174
+908,J. Hendrix,23,1,Netherlands,77,82,PSV,10,13,0,M,61.32,165
+909,J. Izquierdo,25,1,Colombia,77,78,Brighton & Hove Albion,10.5,45,1,M,68.4,165
+910,S. Sydorchuk,27,1,Ukraine,77,78,Dynamo Kyiv,10,1,1,M,74.4,176
+911,C. Grenier,27,1,France,77,78,Stade Rennais FC,10,32,1,M,73.2,159
+912,T. Strobl,28,0,Germany,77,77,Borussia Mönchengladbach,7,27,1,M,74.4,170
+913,V. Odjidja-Ofoe,29,0,Belgium,77,77,KAA Gent,8.5,24,1,M,72,174
+914,N. Guzmán,32,0,Argentina,77,77,Tigres U.A.N.L.,5,38,1,GK,76.8,207
+915,F. Fabra,27,1,Colombia,77,78,Boca Juniors,8,22,0,D,69.6,159
+916,J. Maddison,21,1,England,77,85,Leicester City,13,45,1,M,70.8,161
+917,K. El Ahmadi,33,0,Morocco,77,77,Al Ittihad,3.6,35,1,M,61.32,157
+918,M. Carcela-González,29,0,Morocco,77,77,Standard de Liège,8.5,19,0,M,70.8,148
+919,M. Gabbiadini,26,1,Italy,77,78,Southampton,10.5,51,0,A,61.32,159
+920,M. Ritchie,28,0,Scotland,77,77,Newcastle United,9,49,0,M,75.6,168
+921,G. Bou,28,0,Argentina,77,77,Racing Club,9,26,1,A,69.6,176
+922,Javi Fuego,34,0,Spain,77,77,Villarreal CF,2.7,28,1,M,61.2,163
+923,E. Akbaba,25,1,Turkey,77,80,Galatasaray SK,11,51,0,M,72,161
+924,J. Amavi,24,1,France,77,82,Olympique de Marseille,10,34,0,D,61.32,154
+925,R. Malinovskyi,25,1,Ukraine,77,81,KRC Genk,11.5,17,0,M,70.8,187
+926,D. Welbeck,27,1,England,77,77,Arsenal,9.5,95,1,A,61.32,161
+927,G. Conti,23,1,Argentina,77,83,SL Benfica,10.5,10,1,D,73.2,176
+928,Bruno,28,0,Spain,77,78,Getafe CF,8,23,1,D,76.8,190
+929,Garry Rodrigues,27,1,Cape Verde,77,77,Galatasaray SK,9.5,53,1,M,73.2,154
+930,A. Schwolow,26,1,Germany,77,78,SC Freiburg,7,19,1,GK,69.6,185
+931,L. Cook,21,1,England,77,84,Bournemouth,12.5,44,1,M,74.4,157
+932,P. Pérez,32,0,Argentina,77,77,Boca Juniors,6.5,24,1,M,70.8,176
+933,Gazzolisco,30,0,Brazil,77,77,Internacional,6.5,26,0,D,70.8,161
+934,Jonatan Soriano,32,0,Spain,77,77,Beijing Sinobo Guoan FC,7,23,1,A,73.2,159
+935,Rubén Peña,26,1,Spain,77,78,SD Eibar,8.5,22,1,D,61.32,143
+936,Mikel San José,29,0,Spain,77,77,Athletic Club de Bilbao,8.5,25,1,M,68.4,174
+937,P. Groß,27,1,Germany,77,78,Brighton & Hove Albion,10,47,1,M,74.4,172
+938,L. Baines,33,0,England,77,77,Everton,3.4,74,0,D,61.32,154
+939,A. Ogbonna,30,0,Italy,77,77,West Ham United,6.5,65,0,D,68.4,190
+940,Juan Jesus,27,1,Brazil,77,77,Roma,7.5,51,0,D,75.6,183
+941,J. Martínez,31,0,Colombia,77,77,Portimonense SC,8,22,1,A,73.2,176
+942,N. Elvedi,21,1,Switzerland,77,84,Borussia Mönchengladbach,11,19,1,D,73.2,172
+943,G. Moreno,32,0,Colombia,77,77,Shanghai Greenland Shenhua FC,7,17,0,M,74.4,183
+944,J. Valdivia,34,0,Chile,77,77,Colo-Colo,4.5,10,1,M,76.8,157
+945,A. Carroll,29,0,England,77,77,West Ham United,9,80,0,A,69.6,174
+946,A. Pyatov,34,0,Ukraine,77,77,Shakhtar Donetsk,3.6,1,1,GK,76.8,198
+947,T. Gutiérrez,33,0,Colombia,77,77,Junior FC,5.5,6,1,A,75.6,179
+948,Álex Remiro,23,1,Spain,77,83,Athletic Club de Bilbao,9,15,1,GK,61.2,183
+949,Wilson Eduardo,27,1,Portugal,77,77,SC Braga,9.5,17,1,A,75.6,161
+950,Jorge Meré,21,1,Spain,77,83,1. FC Köln,10.5,15,1,D,61.2,176
+951,M. Elneny,25,1,Egypt,77,79,Arsenal,9,76,1,M,72,163
+952,D. Torres,28,0,Colombia,77,77,Deportivo Alavés,7,24,1,M,61.32,179
+953,Y. Bounou,27,1,Morocco,77,80,Girona FC,7.5,22,0,GK,72,172
+954,A. Prijović,28,0,Serbia,77,77,PAOK,9,1,1,A,76.8,194
+955,A. Jahanbakhsh,24,1,Iran,77,80,Brighton & Hove Albion,11.5,41,1,M,75.6,172
+956,J. Calleri,24,1,Argentina,77,82,Deportivo Alavés,12,24,1,A,61.32,170
+957,Simão Acunha,30,0,Brazil,77,77,Atlético Mineiro,8.5,35,1,M,61.32,157
+958,N. Müller,30,0,Germany,77,77,Eintracht Frankfurt,8.5,34,1,M,61.2,146
+959,L. Ocampos,23,1,Argentina,77,82,Olympique de Marseille,12,38,1,M,69.6,185
+960,J. Rodriguez,28,0,England,77,77,West Bromwich Albion,9,41,1,A,74.4,185
+961,V. Ibišević,33,0,Bosnia Herzegovina,77,77,Hertha BSC,5.5,31,1,A,73.2,181
+962,S. Rondón,28,0,Venezuela,77,77,Newcastle United,9,41,1,A,74.4,216
+963,Victor Sánchez,30,0,Spain,77,77,RCD Espanyol,6.5,26,1,M,73.2,159
+964,D. Suárez,30,0,Uruguay,77,77,Getafe CF,6.5,22,1,D,70.8,150
+965,K. Huntelaar,34,0,Netherlands,77,77,Ajax,4.7,20,1,A,69.6,183
+966,L. Dubois,23,1,France,77,84,Olympique Lyonnais,10.5,44,1,D,73.2,161
+967,André Pinto,28,0,Portugal,77,77,Sporting CP,7,14,1,D,61.2,190
+968,K. Lala,26,1,France,77,78,RC Strasbourg Alsace,8.5,19,1,D,76.8,172
+969,O. Kıvrak,30,0,Turkey,77,77,Trabzonspor,5.5,24,1,GK,61.2,163
+970,A. Bertolacci,27,1,Italy,77,77,Milan,9,75,0,M,74.4,165
+971,E. Giaccherini,33,0,Italy,77,77,Chievo Verona,5.5,20,1,A,61.2,132
+972,A. Živković,21,1,Serbia,77,84,SL Benfica,12.5,11,0,A,67.2,150
+973,R. Ábila,28,0,Argentina,77,77,Boca Juniors,9,27,1,A,68.4,205
+974,P. Diop,32,0,Senegal,77,77,SD Eibar,5,22,1,M,61.2,170
+975,D. Garmash,28,0,Ukraine,77,77,Dynamo Kyiv,9,1,1,M,61.2,165
+976,T. Chandler,28,0,United States,77,77,Eintracht Frankfurt,7,33,1,D,73.2,181
+977,R. Klavan,32,0,Estonia,77,77,Cagliari,5,30,0,D,72,187
+978,A. Miranchuk,22,1,Russia,77,82,Lokomotiv Moscow,12,1,0,M,74.4,163
+979,D. Da Silva,30,0,France,77,77,Stade Rennais FC,6.5,30,1,D,72,181
+980,D. Benaglio,34,0,Switzerland,77,77,AS Monaco,3.6,44,1,GK,72,196
+981,T. Rincón,30,0,Venezuela,77,77,Torino,8,42,1,M,76.8,168
+982,M. Pereira,34,0,Uruguay,77,77,FC Porto,2.5,13,1,D,61.2,161
+983,C. Borges,30,0,Costa Rica,77,77,Göztepe SK,6.5,24,1,M,69.6,172
+984,J. Sand,37,0,Argentina,77,77,Deportivo Cali,3.2,3,1,A,72,174
+985,Markel Bergara,32,0,Spain,77,77,Getafe CF,5,22,1,M,72,172
+986,Vágner Love,34,0,Brazil,77,77,Beşiktaş JK,4.7,50,1,A,61.32,159
+987,B. Bourigeaud,24,1,France,77,81,Stade Rennais FC,11.5,28,1,M,68.4,150
+988,R. Soriano,27,1,Italy,77,77,Torino,9.5,31,1,M,61.2,168
+989,R. Sambueza,34,0,Argentina,77,77,Deportivo Toluca,4.5,26,0,M,72,159
+990,Montoya,27,1,Spain,77,78,Brighton & Hove Albion,8,43,1,D,70.8,161
+991,A. Poli,28,0,Italy,77,77,Bologna,9,34,1,M,70.8,170
