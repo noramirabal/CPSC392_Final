@@ -1,4 +1,4 @@
-# CPSC392_Final
+# Star Soccer Players
 ## Problem Statement
 The goal of this project is to answer three questions
 1. Which variables have the strongest impact on a players value
