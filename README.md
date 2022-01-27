@@ -18,9 +18,10 @@ The data used comes from [kaggle](https://www.kaggle.com/karangadiya/fifa19).
 The dataset included a lot of variables which were not related to some of my questions, because of this I cleaned the data in excel.
 
 ## Results
-1. For the first question I used linear regression and dimensionality reduction and concluded that the variables the had the strongest impact on a player's value was the players overall rating. 
-2. Using clustering algorthms such as DBSCAN, hierarchial, Gaussian Mixture Models, and K means I've concluded that there are two distinct groups for the relationship between overall rating and value. The first group represents the majority population of players and the second group is what we could consider star players.
-3. Using propability statistics I found that 41% of left footed players taller than 6 feet are older than 27 and 46% of players that are right foot and shorter than 6 feet are older than 27. 
+1. For the first question I used linear regression and dimensionality reduction and concluded that the variables that had the strongest impact on a player's value was the players overall rating. 
+2. Using clustering algorithms such as DBSCAN, hierarchical, Gaussian Mixture Models, and K means I've concluded that there are two distinct groups for the relationship between overall rating and value. The first group represents the majority population of players and the second group is what we could consider star players.
+3. Using probability statistics I found that 41% of left footed players taller than 6 feet are older than 27 and 46% of players that are right foot and shorter than 6 feet are older than 27. 
+
 
 ## Implementation
 The models can be implemented for internal club analytics. All three of the models accurately aid a team in planning. 
